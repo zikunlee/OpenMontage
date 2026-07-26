@@ -38,6 +38,9 @@ corpus/
 # User music library (personal royalty-free tracks — not part of repo)
 music_library/
 
+# User SFX library (personal royalty-free sound effects — not part of repo)
+sfx_library/
+
 # Environment & credentials
 .env
 .env.local
