@@ -21,6 +21,7 @@ import re
 import shutil
 import subprocess
 import time
+import urllib.request
 from pathlib import Path
 from typing import Any, Optional
 
@@ -45,6 +46,44 @@ log = logging.getLogger("hyperframes_compose")
 _IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".webp", ".gif"}
 _VIDEO_EXTENSIONS = {".mp4", ".mov", ".webm", ".mkv", ".m4v"}
 _AUDIO_EXTENSIONS = {".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac"}
+
+_GSAP_CDN_URL = "https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"
+_GSAP_CACHE_PATH = Path.home() / ".cache" / "hyperframes_vendor" / "gsap-3.14.2.min.js"
+
+
+def _vendor_gsap_into(workspace: Path) -> str:
+    """Copy a locally-cached GSAP build into workspace/vendor/gsap.min.js.
+
+    The generated index.html previously pointed <script src=...> straight at
+    a jsdelivr CDN URL. The headless Chrome that `hyperframes validate`/
+    `render` launches doesn't inherit this process's HTTPS_PROXY (no
+    --proxy-server flag is passed to it), so in network-restricted sandboxes
+    the CDN fetch never completes and page navigation times out at 10s —
+    surfacing as a hard validate failure with nothing wrong in the
+    composition itself. Vendoring the script locally removes that dependency
+    entirely, which is also what the hyperframes CLI's own error message
+    recommends ("Vendor the script locally (recommended for deterministic
+    renders)").
+
+    Returns the src= to use in the HTML (relative to workspace), falling
+    back to the original CDN URL if vendoring fails for any reason (e.g. no
+    network at all) so this never makes things worse than before.
+    """
+    vendor_dir = workspace / "vendor"
+    dest = vendor_dir / "gsap.min.js"
+    if dest.exists() and dest.stat().st_size > 0:
+        return "vendor/gsap.min.js"
+    try:
+        if not (_GSAP_CACHE_PATH.exists() and _GSAP_CACHE_PATH.stat().st_size > 0):
+            _GSAP_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+            with urllib.request.urlopen(_GSAP_CDN_URL, timeout=15) as resp:
+                _GSAP_CACHE_PATH.write_bytes(resp.read())
+        vendor_dir.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(_GSAP_CACHE_PATH, dest)
+        return "vendor/gsap.min.js"
+    except Exception:
+        log.warning("Could not vendor GSAP locally; falling back to CDN URL", exc_info=True)
+        return _GSAP_CDN_URL
 
 
 class HyperFramesCompose(BaseTool):
@@ -518,6 +557,7 @@ class HyperFramesCompose(BaseTool):
 
         # Write index.html — the main composition.
         total_duration = self._compute_total_duration(resolved_cuts)
+        gsap_src = _vendor_gsap_into(workspace)
         html = self._generate_index_html(
             cuts=resolved_cuts,
             audio_refs=audio_refs,
@@ -527,6 +567,7 @@ class HyperFramesCompose(BaseTool):
             css_vars=css_vars,
             title=edit_decisions.get("metadata", {}).get("title")
             or f"OpenMontage {edit_decisions.get('renderer_family', 'composition')}",
+            gsap_src=gsap_src,
         )
         (workspace / "index.html").write_text(html, encoding="utf-8")
 
@@ -943,6 +984,7 @@ class HyperFramesCompose(BaseTool):
         total_duration: float,
         css_vars: dict[str, str],
         title: str,
+        gsap_src: str = _GSAP_CDN_URL,
     ) -> str:
         """Emit a HyperFrames-contract-compliant index.html.
 
@@ -1014,7 +1056,7 @@ class HyperFramesCompose(BaseTool):
     .clip.text-card h1 {{ font-family: var(--font-heading); font-weight: 700; font-size: 96px; line-height: 1.1; margin: 0; color: var(--color-fg); }}
     .clip.text-card .subtitle {{ font-size: 36px; margin-top: 24px; color: var(--color-accent); }}
   </style>
-  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <script src="{self._escape_attr(gsap_src)}"></script>
 </head>
 <body>
   <div data-composition-id="root" data-start="0" data-duration="{self._f(total_duration)}" data-width="{width}" data-height="{height}">
