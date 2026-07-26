@@ -120,15 +120,26 @@ class PiperTTS(BaseTool):
         output_path = Path(inputs.get("output_path", "tts_output.wav"))
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
+        model = inputs.get("model", "en_US-lessac-medium")
+        cmd = [
+            "piper",
+            "--model", model,
+            "--speaker", str(inputs.get("speaker_id", 0)),
+            "--length-scale", str(inputs.get("length_scale", 1.0)),
+            "--sentence-silence", str(inputs.get("sentence_silence", 0.3)),
+            "--output_file", str(output_path),
+        ]
+        # A bare model name (e.g. the "en_US-lessac-medium" default) is only
+        # resolvable if piper is told where downloaded voices live; without
+        # --data-dir it raises "Unable to find voice" even when the .onnx is
+        # sitting in the documented download location from install_instructions.
+        if not Path(model).is_file():
+            data_dir = Path(inputs.get("data_dir", Path.home() / ".piper" / "models"))
+            if data_dir.is_dir():
+                cmd.extend(["--data-dir", str(data_dir)])
+
         proc = subprocess.run(
-            [
-                "piper",
-                "--model", inputs.get("model", "en_US-lessac-medium"),
-                "--speaker", str(inputs.get("speaker_id", 0)),
-                "--length-scale", str(inputs.get("length_scale", 1.0)),
-                "--sentence-silence", str(inputs.get("sentence_silence", 0.3)),
-                "--output_file", str(output_path),
-            ],
+            cmd,
             input=inputs["text"],
             capture_output=True,
             text=True,
