@@ -248,7 +248,7 @@ Every finished video render from every pipeline gets a watermark overlay burned 
 **Source:** `branding/watermark.png` (tracked in git — unlike `music_library/`/`sfx_library/`, this is a small fixed brand asset, not a regenerable per-project one). If this file doesn't exist for a given repo checkout, treat it as a missing-asset blocker at compose time and ask the user for one rather than skipping the watermark silently.
 
 **Placement contract:**
-- Corner-anchored (default: bottom-right). Scale it down to roughly 8-12% of the frame width — large enough to read, small enough to stay out of the way.
+- Corner-anchored (default: top-right, per user preference). Scale it down to roughly 8-12% of the frame width — large enough to read, small enough to stay out of the way.
 - Inset from the frame edges (not flush against them) so it isn't clipped by safe-zone cropping on different players/aspect ratios.
 - Opacity 30%-50% (40% is a reasonable default) — visible as a mark, not a distraction from the content.
 - Present for the **entire** output duration, not just an intro/outro card.
