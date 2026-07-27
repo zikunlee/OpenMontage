@@ -241,6 +241,22 @@ music_library/
 
 If the folder has tracks, the proposal and asset stages should present them as options alongside generated music. See the proposal-director and asset-director skills for details.
 
+## Watermark (Mandatory)
+
+Every finished video render from every pipeline gets a watermark overlay burned in — this is a standing default, not a per-project request the user needs to repeat.
+
+**Source:** `branding/watermark.png` (tracked in git — unlike `music_library/`/`sfx_library/`, this is a small fixed brand asset, not a regenerable per-project one). If this file doesn't exist for a given repo checkout, treat it as a missing-asset blocker at compose time and ask the user for one rather than skipping the watermark silently.
+
+**Placement contract:**
+- Corner-anchored (default: bottom-right). Scale it down to roughly 8-12% of the frame width — large enough to read, small enough to stay out of the way.
+- Inset from the frame edges (not flush against them) so it isn't clipped by safe-zone cropping on different players/aspect ratios.
+- Opacity 30%-50% (40% is a reasonable default) — visible as a mark, not a distraction from the content.
+- Present for the **entire** output duration, not just an intro/outro card.
+
+**Implementation:** for FFmpeg/HyperFrames renders, pre-bake the target scale + opacity into a static RGBA PNG once (avoids expensive per-frame `scale`/`colorchannelmixer` filter chains, which have been observed to OOM-kill `ffmpeg` on long renders), then composite with a single `overlay` filter pass. For Remotion, add it as a top-level absolutely-positioned overlay layer in the composition. This is a compose-stage step — apply it to the final render, don't ask the user to re-confirm it per project.
+
+If the source watermark file has a baked-in checkerboard (no real alpha channel) instead of true transparency — a common export mistake — regenerate proper alpha before use (e.g. `rembg`) rather than compositing the checkerboard as visible pixels.
+
 ## Available Pipelines
 
 | Pipeline | Best For | Stability |
