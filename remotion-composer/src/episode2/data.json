@@ -1,0 +1,977 @@
+{
+  "totalDuration": 333.68,
+  "scenes": [
+    {
+      "id": "sc01",
+      "start": 0.0,
+      "duration": 33.41,
+      "src": "scene_sc01_lyra_mirror.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.14,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.8,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 32.26
+    },
+    {
+      "id": "sc02",
+      "start": 32.61,
+      "duration": 7.44,
+      "src": "scene_sc02_lyra_skipping.png",
+      "anim": {
+        "scaleFrom": 1.12,
+        "scaleTo": 1.12,
+        "xFrom": 2.0,
+        "xTo": -2.0
+      },
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 39.0
+    },
+    {
+      "id": "sc03",
+      "start": 39.45,
+      "duration": 20.46,
+      "src": "scene_sc03_lyra_koi.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 58.86
+    },
+    {
+      "id": "sc04",
+      "start": 59.31,
+      "duration": 12.18,
+      "src": "ref_crown_state_a_hidden.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.14,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 70.44
+    },
+    {
+      "id": "sc05",
+      "start": 70.89,
+      "duration": 21.5,
+      "src": "scene_sc05_lyra_picks_crown.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 91.34
+    },
+    {
+      "id": "sc06",
+      "start": 91.79,
+      "duration": 27.59,
+      "src": "scene_sc06_lyra_temptation.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.14,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 118.33
+    },
+    {
+      "id": "sc07",
+      "start": 118.78,
+      "duration": 14.05,
+      "src": "scene_sc07_lyra_resolves.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 131.78
+    },
+    {
+      "id": "sc08",
+      "start": 132.23,
+      "duration": 19.91,
+      "src": "scene_sc08_memory_flash_maya.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 151.09
+    },
+    {
+      "id": "sc09",
+      "start": 151.54,
+      "duration": 35.36,
+      "src": "scene_sc09_lyra_gardener.png",
+      "anim": {
+        "scaleFrom": 1.12,
+        "scaleTo": 1.12,
+        "xFrom": -2.0,
+        "xTo": 2.0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 185.85
+    },
+    {
+      "id": "sc10",
+      "start": 186.3,
+      "duration": 23.04,
+      "src": "scene_sc10_maya_searching.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 208.29
+    },
+    {
+      "id": "sc11",
+      "start": 208.74,
+      "duration": 20.58,
+      "src": "scene_sc11_maya_sad_grandmother.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.14,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 228.27
+    },
+    {
+      "id": "sc12",
+      "start": 228.72,
+      "duration": 21.49,
+      "src": "scene_sc12_crown_reveal.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 249.16
+    },
+    {
+      "id": "sc13",
+      "start": 249.61,
+      "duration": 13.82,
+      "src": "scene_sc13_lyra_explains.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 262.38
+    },
+    {
+      "id": "sc14",
+      "start": 262.83,
+      "duration": 21.55,
+      "src": "scene_sc14_hug.png",
+      "anim": {
+        "scaleFrom": 1.02,
+        "scaleTo": 1.02,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 283.33
+    },
+    {
+      "id": "sc15",
+      "start": 283.78,
+      "duration": 14.4,
+      "src": "ref_crown_state_c_worn.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.14,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 297.13
+    },
+    {
+      "id": "sc16",
+      "start": 297.58,
+      "duration": 8.49,
+      "src": "scene_sc16_walking_laughing.png",
+      "anim": {
+        "scaleFrom": 1.12,
+        "scaleTo": 1.12,
+        "xFrom": 2.0,
+        "xTo": -2.0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 1.5,
+      "fadeOutAt": 305.02
+    },
+    {
+      "id": "sc17",
+      "start": 305.47,
+      "duration": 28.21,
+      "src": "scene_sc17_evening_bedroom.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.14,
+        "xFrom": 0,
+        "xTo": 0
+      },
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": null,
+      "fadeOutAt": null
+    }
+  ],
+  "videos": [
+    {
+      "id": "sc11-video",
+      "src": "sc11_animated.mp4",
+      "start": 208.74,
+      "duration": 5.8,
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 0.6,
+      "fadeOutAt": 213.94
+    },
+    {
+      "id": "sc12-video",
+      "src": "sc12_animated.mp4",
+      "start": 228.72,
+      "duration": 5.8,
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 0.6,
+      "fadeOutAt": 233.92
+    },
+    {
+      "id": "sc15-video",
+      "src": "sc15_animated.mp4",
+      "start": 283.78,
+      "duration": 5.8,
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 0.6,
+      "fadeOutAt": 288.98
+    },
+    {
+      "id": "sc16-video",
+      "src": "sc16_animated.mp4",
+      "start": 297.58,
+      "duration": 5.8,
+      "fadeInDuration": 0.3,
+      "fadeOutDuration": 0.6,
+      "fadeOutAt": 302.78
+    }
+  ],
+  "captions": [
+    {
+      "id": "cap-s01",
+      "start": 1.5,
+      "fadeOutAt": 18.21,
+      "text": "In the kingdom of sunshine and flowers, Princess Lyra loved exploring the palace grounds every single morning. There was always something new to discover \u2014 a butterfly she hadn't seen before, a flower just about to bloom, or a new path through the hedges she hadn't tried yet."
+    },
+    {
+      "id": "cap-s02",
+      "start": 19.61,
+      "fadeOutAt": 31.61,
+      "text": "One bright day, Lyra put on her sparkling sapphire blue gown. It shimmered like the sky just before sunset, and she twirled once in front of her mirror before skipping happily out into the garden."
+    },
+    {
+      "id": "cap-s03",
+      "start": 33.01,
+      "fadeOutAt": 38.35,
+      "text": "\"Good morning, garden!\" she called out, waving to the birds perched on the fountain's edge."
+    },
+    {
+      "id": "cap-s04",
+      "start": 39.75,
+      "fadeOutAt": 58.21,
+      "text": "She wandered past the rows of tulips, past the tall rose arches, until she reached her favorite spot \u2014 the garden fountain, where the water sparkled like diamonds in the sunlight. She sat on the edge for a moment, listening to the gentle splash of the water and watching the koi fish swim lazy circles below."
+    },
+    {
+      "id": "cap-s05",
+      "start": 59.61,
+      "fadeOutAt": 69.79,
+      "text": "As she stood up to keep exploring, something caught her eye. There, tucked under a rose bush just a few steps away, something silver was glinting in the light."
+    },
+    {
+      "id": "cap-s06",
+      "start": 71.19,
+      "fadeOutAt": 83.04,
+      "text": "Lyra tiptoed closer and gasped. It was a beautiful silver crown! It glittered and shimmered, even in the shade of the bush, with tiny silver flowers carved all along the band."
+    },
+    {
+      "id": "cap-s07",
+      "start": 84.44,
+      "fadeOutAt": 90.69,
+      "text": "\"Ooh, how pretty!\" Lyra said, kneeling down and picking it up gently with both hands."
+    },
+    {
+      "id": "cap-s08",
+      "start": 92.09,
+      "fadeOutAt": 101.5,
+      "text": "She turned the crown over slowly, admiring every little detail. It was truly lovely \u2014 delicate, sparkly, and clearly made with great care."
+    },
+    {
+      "id": "cap-s09",
+      "start": 102.9,
+      "fadeOutAt": 116.48,
+      "text": "For just a moment, Lyra imagined it sitting on the shelf in her room, right next to her other treasures. It would look so beautiful there, she thought. No one would ever know where it came from..."
+    },
+    {
+      "id": "cap-s10",
+      "start": 119.08,
+      "fadeOutAt": 122.96,
+      "text": "But almost as quickly as the thought appeared, Lyra shook her head."
+    },
+    {
+      "id": "cap-s11",
+      "start": 124.36,
+      "fadeOutAt": 130.43,
+      "text": "\"That's not right,\" she said quietly to herself. \"This crown belongs to someone.\""
+    },
+    {
+      "id": "cap-s12",
+      "start": 132.53,
+      "fadeOutAt": 140.88,
+      "text": "She thought hard. Where had she seen a crown like this before? She closed her eyes and pictured it... and then it came to her!"
+    },
+    {
+      "id": "cap-s13",
+      "start": 142.28,
+      "fadeOutAt": 150.44,
+      "text": "\"Wait a moment,\" Lyra gasped. \"This looks just like Princess Maya's crown! She was wearing it yesterday at the tea party!\""
+    },
+    {
+      "id": "cap-s14",
+      "start": 151.84,
+      "fadeOutAt": 163.55,
+      "text": "Lyra knew exactly what she had to do. She held the crown carefully in both hands, the way you'd carry something precious, and set off toward the palace steps to find her friend."
+    },
+    {
+      "id": "cap-s15",
+      "start": 164.95,
+      "fadeOutAt": 177.25,
+      "text": "Along the way, she passed the royal gardener trimming the hedges, and even he noticed how carefully she was holding the crown. \"That's a special way to carry something, Princess,\" he said with a smile."
+    },
+    {
+      "id": "cap-s16",
+      "start": 178.65,
+      "fadeOutAt": 185.2,
+      "text": "\"It's not mine,\" Lyra explained. \"It's my friend's, and I want to make sure it gets back to her safely.\""
+    },
+    {
+      "id": "cap-s17",
+      "start": 186.6,
+      "fadeOutAt": 200.76,
+      "text": "Finally, Lyra spotted Maya near the palace steps. But Maya didn't look like her usual cheerful self. She was walking slowly with her head down, eyes searching along the ground, checking under benches and behind flower pots."
+    },
+    {
+      "id": "cap-s18",
+      "start": 202.16,
+      "fadeOutAt": 207.64,
+      "text": "\"Maya!\" Lyra called out, hurrying toward her. \"Are you looking for something?\""
+    },
+    {
+      "id": "cap-s19",
+      "start": 209.04,
+      "fadeOutAt": 225.62,
+      "text": "Maya looked up, and Lyra could see she'd been close to tears. \"Oh, Lyra... I lost my crown yesterday, and I've looked everywhere. My grandmother gave it to me. I don't know what I'll do if I can't find it.\""
+    },
+    {
+      "id": "cap-s20",
+      "start": 229.02,
+      "fadeOutAt": 236.89,
+      "text": "Lyra's heart filled with warmth. She held out her hands, revealing the silver crown. \"Is this what you're looking for?\""
+    },
+    {
+      "id": "cap-s21",
+      "start": 238.29,
+      "fadeOutAt": 247.31,
+      "text": "Maya's whole face lit up with surprise and joy. \"My crown! You found it! Where was it?\""
+    },
+    {
+      "id": "cap-s22",
+      "start": 249.91,
+      "fadeOutAt": 261.73,
+      "text": "\"Under a rose bush by the fountain,\" said Lyra, placing it gently into her friend's hands. \"The moment I saw it, I knew it must be yours. I wanted to bring it straight back to you.\""
+    },
+    {
+      "id": "cap-s23",
+      "start": 263.13,
+      "fadeOutAt": 273.99,
+      "text": "Maya threw her arms around Lyra in a big, happy hug. \"Thank you so much! You could have kept it, but you didn't. You're such a good friend, Lyra.\""
+    },
+    {
+      "id": "cap-s24",
+      "start": 275.39,
+      "fadeOutAt": 282.68,
+      "text": "\"I couldn't imagine keeping something that wasn't mine,\" Lyra said with a smile. \"That wouldn't have felt right at all.\""
+    },
+    {
+      "id": "cap-s25",
+      "start": 284.08,
+      "fadeOutAt": 294.48,
+      "text": "As Maya carefully placed the crown back on her head, it seemed to sparkle even brighter than before \u2014 as if it, too, was happy to be back home where it belonged."
+    },
+    {
+      "id": "cap-s26",
+      "start": 297.88,
+      "fadeOutAt": 304.37,
+      "text": "The two princesses walked back through the garden together, laughing and chatting, the crown gleaming with every step."
+    },
+    {
+      "id": "cap-s27",
+      "start": 305.77,
+      "fadeOutAt": 320.28,
+      "text": "That evening, as Lyra got ready for bed, she thought about her day. Being honest hadn't just made Maya happy \u2014 it had made Lyra feel warm and proud inside, too, in a way that keeping the crown never could have."
+    },
+    {
+      "id": "cap-s28",
+      "start": 321.68,
+      "fadeOutAt": 326.16,
+      "text": "Because true friends always do the right thing, even when no one else is watching."
+    },
+    {
+      "id": "cap-s29",
+      "start": 329.06,
+      "fadeOutAt": 329.78,
+      "text": "The End."
+    }
+  ],
+  "narrations": [
+    {
+      "id": "asset_narration_s01",
+      "src": "narration_s01.wav",
+      "start": 1.5,
+      "duration": 17.01
+    },
+    {
+      "id": "asset_narration_s02",
+      "src": "narration_s02.wav",
+      "start": 19.61,
+      "duration": 12.3
+    },
+    {
+      "id": "asset_narration_s03",
+      "src": "narration_s03.wav",
+      "start": 33.01,
+      "duration": 5.64
+    },
+    {
+      "id": "asset_narration_s04",
+      "src": "narration_s04.wav",
+      "start": 39.75,
+      "duration": 18.76
+    },
+    {
+      "id": "asset_narration_s05",
+      "src": "narration_s05.wav",
+      "start": 59.61,
+      "duration": 10.49
+    },
+    {
+      "id": "asset_narration_s06",
+      "src": "narration_s06.wav",
+      "start": 71.19,
+      "duration": 12.14
+    },
+    {
+      "id": "asset_narration_s07",
+      "src": "narration_s07.wav",
+      "start": 84.44,
+      "duration": 6.55
+    },
+    {
+      "id": "asset_narration_s08",
+      "src": "narration_s08.wav",
+      "start": 92.09,
+      "duration": 9.71
+    },
+    {
+      "id": "asset_narration_s09",
+      "src": "narration_s09.wav",
+      "start": 102.9,
+      "duration": 13.88
+    },
+    {
+      "id": "asset_narration_s10",
+      "src": "narration_s10.wav",
+      "start": 119.08,
+      "duration": 4.18
+    },
+    {
+      "id": "asset_narration_s11",
+      "src": "narration_s11.wav",
+      "start": 124.36,
+      "duration": 6.37
+    },
+    {
+      "id": "asset_narration_s12",
+      "src": "narration_s12.wav",
+      "start": 132.53,
+      "duration": 8.65
+    },
+    {
+      "id": "asset_narration_s13",
+      "src": "narration_s13.wav",
+      "start": 142.28,
+      "duration": 8.46
+    },
+    {
+      "id": "asset_narration_s14",
+      "src": "narration_s14.wav",
+      "start": 151.84,
+      "duration": 12.01
+    },
+    {
+      "id": "asset_narration_s15",
+      "src": "narration_s15.wav",
+      "start": 164.95,
+      "duration": 12.6
+    },
+    {
+      "id": "asset_narration_s16",
+      "src": "narration_s16.wav",
+      "start": 178.65,
+      "duration": 6.84
+    },
+    {
+      "id": "asset_narration_s17",
+      "src": "narration_s17.wav",
+      "start": 186.6,
+      "duration": 14.46
+    },
+    {
+      "id": "asset_narration_s18",
+      "src": "narration_s18.wav",
+      "start": 202.16,
+      "duration": 5.78
+    },
+    {
+      "id": "asset_narration_s19",
+      "src": "narration_s19.wav",
+      "start": 209.04,
+      "duration": 13.68
+    },
+    {
+      "id": "asset_narration_s20",
+      "src": "narration_s20.wav",
+      "start": 229.02,
+      "duration": 8.17
+    },
+    {
+      "id": "asset_narration_s21",
+      "src": "narration_s21.wav",
+      "start": 238.29,
+      "duration": 9.32
+    },
+    {
+      "id": "asset_narration_s22",
+      "src": "narration_s22.wav",
+      "start": 249.91,
+      "duration": 12.12
+    },
+    {
+      "id": "asset_narration_s23",
+      "src": "narration_s23.wav",
+      "start": 263.13,
+      "duration": 11.16
+    },
+    {
+      "id": "asset_narration_s24",
+      "src": "narration_s24.wav",
+      "start": 275.39,
+      "duration": 7.59
+    },
+    {
+      "id": "asset_narration_s25",
+      "src": "narration_s25.wav",
+      "start": 284.08,
+      "duration": 10.7
+    },
+    {
+      "id": "asset_narration_s26",
+      "src": "narration_s26.wav",
+      "start": 297.88,
+      "duration": 6.79
+    },
+    {
+      "id": "asset_narration_s27",
+      "src": "narration_s27.wav",
+      "start": 305.77,
+      "duration": 14.81
+    },
+    {
+      "id": "asset_narration_s28",
+      "src": "narration_s28.wav",
+      "start": 321.68,
+      "duration": 4.78
+    },
+    {
+      "id": "asset_narration_s29",
+      "src": "narration_s29.wav",
+      "start": 329.06,
+      "duration": 1.01
+    }
+  ],
+  "music": {
+    "src": "garden_crown_looped.mp3",
+    "start": 0.0,
+    "duration": 333.68,
+    "baseVolume": 0.12,
+    "duckKeyframes": [
+      {
+        "time": 1.1,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 18.51,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 19.21,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 31.91,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 32.61,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 38.65,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 39.35,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 58.51,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 59.21,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 70.1,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 70.79,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 83.33,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 84.04,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 90.99,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 91.69,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 101.8,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 102.5,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 116.78,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 118.68,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 123.26,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 123.96,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 130.73,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 132.13,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 141.18,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 141.88,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 150.74,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 151.44,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 163.85,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 164.55,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 177.55,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 178.25,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 185.49,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 186.2,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 201.06,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 201.76,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 207.94,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 208.64,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 225.92,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 228.62,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 237.19,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 237.89,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 247.61,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 249.51,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 262.03,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 262.73,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 274.29,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 274.99,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 282.98,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 283.68,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 294.78,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 297.48,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 304.67,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 305.37,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 320.58,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 321.28,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 326.46,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 328.66,
+        "volume": 0.042,
+        "duration": 0.4
+      },
+      {
+        "time": 330.07,
+        "volume": 0.12,
+        "duration": 0.4
+      },
+      {
+        "time": 330.68,
+        "volume": 0.0,
+        "duration": 3.0
+      }
+    ],
+    "fadeInVolume": 0.12,
+    "fadeInDuration": 1.05,
+    "fadeOutAt": 330.68,
+    "fadeOutDuration": 3.0
+  },
+  "sfx": [
+    {
+      "id": "asset_sfx_crown_reveal",
+      "src": "sfx_crown_reveal.mp3",
+      "start": 229.02,
+      "duration": 5.04,
+      "volume": 0.8
+    },
+    {
+      "id": "asset_sfx_crown_sparkle_echo",
+      "src": "sfx_crown_sparkle_echo.mp3",
+      "start": 284.08,
+      "duration": 5.04,
+      "volume": 0.8
+    }
+  ],
+  "fadeBlack": {
+    "start": 332.48,
+    "duration": 1.2
+  }
+}
