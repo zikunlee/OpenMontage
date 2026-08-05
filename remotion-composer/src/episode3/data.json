@@ -1,5 +1,19 @@
 {
   "totalDuration": 167.42,
+  "introDuration": 15.761,
+  "intro": {
+    "bgSrc": "title_card_bg.png",
+    "seriesTitle": "Princess Lyra's Magic Kingdom",
+    "episodeTitle": "The Untidy Royal Dressing Room",
+    "moralText": "When you take care of your space, your space takes care of you.",
+    "narrationSrc": "narration_intro.wav",
+    "narrationStart": 0.3,
+    "titleFadeInAt": 0.3,
+    "moralFadeInAt": 6.734,
+    "duration": 15.761,
+    "fadeOutAt": 15.361,
+    "fadeOutDuration": 0.4
+  },
   "scenes": [
     {
       "id": "sc01",

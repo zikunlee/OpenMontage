@@ -83,8 +83,24 @@ export interface Sfx {
   volume: number;
 }
 
+export interface Intro {
+  bgSrc: string;
+  seriesTitle: string;
+  episodeTitle: string;
+  moralText: string;
+  narrationSrc: string;
+  narrationStart: number;
+  titleFadeInAt: number;
+  moralFadeInAt: number;
+  duration: number;
+  fadeOutAt: number;
+  fadeOutDuration: number;
+}
+
 export interface Episode3Data {
   totalDuration: number;
+  introDuration: number;
+  intro: Intro;
   scenes: Scene[];
   videos: VideoInsert[];
   endStills: EndStill[];

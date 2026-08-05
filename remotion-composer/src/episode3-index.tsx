@@ -6,7 +6,7 @@ const Episode3Root: React.FC = () => (
   <Composition
     id="Episode3"
     component={Episode3}
-    durationInFrames={Math.ceil(episode3Data.totalDuration * 30)}
+    durationInFrames={Math.ceil((episode3Data.introDuration + episode3Data.totalDuration) * 30)}
     fps={30}
     width={1280}
     height={720}
