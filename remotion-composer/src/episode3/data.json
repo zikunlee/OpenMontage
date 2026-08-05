@@ -1,0 +1,3229 @@
+{
+  "totalDuration": 167.42,
+  "scenes": [
+    {
+      "id": "sc01",
+      "start": 0.3,
+      "duration": 31.19,
+      "src": "scene_sc01_lyra_surveys_mess.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.15,
+        "xFrom": 0.0,
+        "xTo": 0.0
+      },
+      "fadeInDuration": 0.05,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 30.99
+    },
+    {
+      "id": "sc02",
+      "start": 31.49,
+      "duration": 18.47,
+      "src": "scene_sc02_pillowcase_reveal.png",
+      "anim": {
+        "scaleFrom": 1.05,
+        "scaleTo": 1.1,
+        "xFrom": -1.5,
+        "xTo": 1.5
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 49.46
+    },
+    {
+      "id": "sc03",
+      "start": 49.96,
+      "duration": 19.73,
+      "src": "scene_sc03_nibbles_slipper.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.15,
+        "xFrom": 0.0,
+        "xTo": 0.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 69.19
+    },
+    {
+      "id": "sc04",
+      "start": 69.69,
+      "duration": 15.81,
+      "src": "scene_sc04_lyra_laughs_super_nibbles.png",
+      "anim": {
+        "scaleFrom": 1.03,
+        "scaleTo": 1.03,
+        "xFrom": 0.0,
+        "xTo": 0.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 85.0
+    },
+    {
+      "id": "sc05",
+      "start": 85.5,
+      "duration": 10.07,
+      "src": "scene_sc05_music_box_wind_up.png",
+      "anim": {
+        "scaleFrom": 1.08,
+        "scaleTo": 1.08,
+        "xFrom": -4.0,
+        "xTo": 4.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 95.07
+    },
+    {
+      "id": "sc06",
+      "start": 95.57,
+      "duration": 7.73,
+      "src": "scene_sc06_twirl_scarf_turban.png",
+      "anim": {
+        "scaleFrom": 1.08,
+        "scaleTo": 1.08,
+        "xFrom": 4.0,
+        "xTo": -4.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 102.8
+    },
+    {
+      "id": "sc07",
+      "start": 103.3,
+      "duration": 14.28,
+      "src": "scene_sc07_shoe_tug_of_war.png",
+      "anim": {
+        "scaleFrom": 1.05,
+        "scaleTo": 1.1,
+        "xFrom": -1.5,
+        "xTo": 1.5
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 117.08
+    },
+    {
+      "id": "sc08",
+      "start": 117.58,
+      "duration": 14.07,
+      "src": "scene_sc08_yellow_dress_found.png",
+      "anim": {
+        "scaleFrom": 1.0,
+        "scaleTo": 1.15,
+        "xFrom": 0.0,
+        "xTo": 0.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 131.15
+    },
+    {
+      "id": "sc09",
+      "start": 131.65,
+      "duration": 5.61,
+      "src": "scene_sc09_twirl_mirror.png",
+      "anim": {
+        "scaleFrom": 1.05,
+        "scaleTo": 1.12,
+        "xFrom": -3.0,
+        "xTo": 3.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 136.76
+    },
+    {
+      "id": "sc10",
+      "start": 137.26,
+      "duration": 30.16,
+      "src": "scene_sc10_tidy_room_wink_teaparty.png",
+      "anim": {
+        "scaleFrom": 1.15,
+        "scaleTo": 1.0,
+        "xFrom": 0.0,
+        "xTo": 0.0
+      },
+      "fadeInDuration": 0.5,
+      "fadeOutDuration": null,
+      "fadeOutAt": null
+    }
+  ],
+  "videos": [
+    {
+      "id": "sc02_video",
+      "src": "sc02_animated.mp4",
+      "start": 32.29,
+      "duration": 10.042,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.4,
+      "fadeOutAt": 41.932
+    },
+    {
+      "id": "sc03_video",
+      "src": "sc03_animated.mp4",
+      "start": 50.76,
+      "duration": 10.042,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.4,
+      "fadeOutAt": 60.402
+    },
+    {
+      "id": "sc05_video",
+      "src": "sc05_animated.mp4",
+      "start": 86.3,
+      "duration": 8.97,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.4,
+      "fadeOutAt": 94.87
+    },
+    {
+      "id": "sc06_video",
+      "src": "sc06_animated.mp4",
+      "start": 96.37,
+      "duration": 6.63,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.4,
+      "fadeOutAt": 102.6
+    },
+    {
+      "id": "sc07_video",
+      "src": "sc07_animated.mp4",
+      "start": 104.1,
+      "duration": 10.042,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.4,
+      "fadeOutAt": 113.742
+    },
+    {
+      "id": "sc09_video",
+      "src": "sc09_animated.mp4",
+      "start": 132.45,
+      "duration": 4.51,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.4,
+      "fadeOutAt": 136.56
+    }
+  ],
+  "captions": [
+    {
+      "id": "cap000",
+      "start": 0.3,
+      "end": 2.768,
+      "words": [
+        {
+          "text": "Princess",
+          "start": 0.3,
+          "end": 1.04
+        },
+        {
+          "text": "Lyra",
+          "start": 1.04,
+          "end": 1.452
+        },
+        {
+          "text": "loved",
+          "start": 1.452,
+          "end": 1.946
+        },
+        {
+          "text": "her",
+          "start": 1.946,
+          "end": 2.275
+        },
+        {
+          "text": "royal",
+          "start": 2.275,
+          "end": 2.768
+        }
+      ]
+    },
+    {
+      "id": "cap001",
+      "start": 2.768,
+      "end": 4.002,
+      "words": [
+        {
+          "text": "dressing",
+          "start": 2.768,
+          "end": 3.509
+        },
+        {
+          "text": "room.",
+          "start": 3.509,
+          "end": 4.002
+        }
+      ]
+    },
+    {
+      "id": "cap002",
+      "start": 4.002,
+      "end": 6.059,
+      "words": [
+        {
+          "text": "It",
+          "start": 4.002,
+          "end": 4.249
+        },
+        {
+          "text": "was",
+          "start": 4.249,
+          "end": 4.578
+        },
+        {
+          "text": "full",
+          "start": 4.578,
+          "end": 4.99
+        },
+        {
+          "text": "of",
+          "start": 4.99,
+          "end": 5.237
+        },
+        {
+          "text": "beautiful",
+          "start": 5.237,
+          "end": 6.059
+        }
+      ]
+    },
+    {
+      "id": "cap003",
+      "start": 6.059,
+      "end": 8.775,
+      "words": [
+        {
+          "text": "silk",
+          "start": 6.059,
+          "end": 6.471
+        },
+        {
+          "text": "dresses,",
+          "start": 6.471,
+          "end": 7.211
+        },
+        {
+          "text": "sparkly",
+          "start": 7.211,
+          "end": 7.87
+        },
+        {
+          "text": "shoes,",
+          "start": 7.87,
+          "end": 8.445
+        },
+        {
+          "text": "and",
+          "start": 8.445,
+          "end": 8.775
+        }
+      ]
+    },
+    {
+      "id": "cap004",
+      "start": 8.775,
+      "end": 10.914,
+      "words": [
+        {
+          "text": "ribbons",
+          "start": 8.775,
+          "end": 9.433
+        },
+        {
+          "text": "in",
+          "start": 9.433,
+          "end": 9.68
+        },
+        {
+          "text": "every",
+          "start": 9.68,
+          "end": 10.173
+        },
+        {
+          "text": "color",
+          "start": 10.173,
+          "end": 10.667
+        },
+        {
+          "text": "of",
+          "start": 10.667,
+          "end": 10.914
+        }
+      ]
+    },
+    {
+      "id": "cap005",
+      "start": 10.914,
+      "end": 11.983,
+      "words": [
+        {
+          "text": "the",
+          "start": 10.914,
+          "end": 11.243
+        },
+        {
+          "text": "rainbow.",
+          "start": 11.243,
+          "end": 11.983
+        }
+      ]
+    },
+    {
+      "id": "cap006",
+      "start": 11.983,
+      "end": 14.04,
+      "words": [
+        {
+          "text": "There",
+          "start": 11.983,
+          "end": 12.477
+        },
+        {
+          "text": "was",
+          "start": 12.477,
+          "end": 12.806
+        },
+        {
+          "text": "just",
+          "start": 12.806,
+          "end": 13.218
+        },
+        {
+          "text": "one",
+          "start": 13.218,
+          "end": 13.547
+        },
+        {
+          "text": "small",
+          "start": 13.547,
+          "end": 14.04
+        }
+      ]
+    },
+    {
+      "id": "cap007",
+      "start": 14.04,
+      "end": 15.686,
+      "words": [
+        {
+          "text": "problem",
+          "start": 14.04,
+          "end": 14.699
+        },
+        {
+          "text": "\u2014",
+          "start": 14.699,
+          "end": 14.863
+        },
+        {
+          "text": "it",
+          "start": 14.863,
+          "end": 15.11
+        },
+        {
+          "text": "was",
+          "start": 15.11,
+          "end": 15.439
+        },
+        {
+          "text": "an",
+          "start": 15.439,
+          "end": 15.686
+        }
+      ]
+    },
+    {
+      "id": "cap008",
+      "start": 15.686,
+      "end": 16.92,
+      "words": [
+        {
+          "text": "absolute",
+          "start": 15.686,
+          "end": 16.426
+        },
+        {
+          "text": "mess.",
+          "start": 16.426,
+          "end": 16.92
+        }
+      ]
+    },
+    {
+      "id": "cap009",
+      "start": 16.92,
+      "end": 18.712,
+      "words": [
+        {
+          "text": "Today",
+          "start": 16.92,
+          "end": 17.334
+        },
+        {
+          "text": "the",
+          "start": 17.334,
+          "end": 17.609
+        },
+        {
+          "text": "royal",
+          "start": 17.609,
+          "end": 18.023
+        },
+        {
+          "text": "tea",
+          "start": 18.023,
+          "end": 18.299
+        },
+        {
+          "text": "party",
+          "start": 18.299,
+          "end": 18.712
+        }
+      ]
+    },
+    {
+      "id": "cap010",
+      "start": 18.712,
+      "end": 20.435,
+      "words": [
+        {
+          "text": "started",
+          "start": 18.712,
+          "end": 19.264
+        },
+        {
+          "text": "in",
+          "start": 19.264,
+          "end": 19.47
+        },
+        {
+          "text": "one",
+          "start": 19.47,
+          "end": 19.746
+        },
+        {
+          "text": "hour,",
+          "start": 19.746,
+          "end": 20.16
+        },
+        {
+          "text": "and",
+          "start": 20.16,
+          "end": 20.435
+        }
+      ]
+    },
+    {
+      "id": "cap011",
+      "start": 20.435,
+      "end": 22.09,
+      "words": [
+        {
+          "text": "Lyra",
+          "start": 20.435,
+          "end": 20.78
+        },
+        {
+          "text": "wanted",
+          "start": 20.78,
+          "end": 21.263
+        },
+        {
+          "text": "to",
+          "start": 21.263,
+          "end": 21.469
+        },
+        {
+          "text": "wear",
+          "start": 21.469,
+          "end": 21.814
+        },
+        {
+          "text": "her",
+          "start": 21.814,
+          "end": 22.09
+        }
+      ]
+    },
+    {
+      "id": "cap012",
+      "start": 22.09,
+      "end": 24.158,
+      "words": [
+        {
+          "text": "favorite",
+          "start": 22.09,
+          "end": 22.71
+        },
+        {
+          "text": "dress",
+          "start": 22.71,
+          "end": 23.124
+        },
+        {
+          "text": "\u2014",
+          "start": 23.124,
+          "end": 23.261
+        },
+        {
+          "text": "the",
+          "start": 23.261,
+          "end": 23.537
+        },
+        {
+          "text": "sunshine",
+          "start": 23.537,
+          "end": 24.158
+        }
+      ]
+    },
+    {
+      "id": "cap013",
+      "start": 24.158,
+      "end": 26.088,
+      "words": [
+        {
+          "text": "yellow",
+          "start": 24.158,
+          "end": 24.64
+        },
+        {
+          "text": "one,",
+          "start": 24.64,
+          "end": 24.985
+        },
+        {
+          "text": "with",
+          "start": 24.985,
+          "end": 25.329
+        },
+        {
+          "text": "the",
+          "start": 25.329,
+          "end": 25.605
+        },
+        {
+          "text": "twirly",
+          "start": 25.605,
+          "end": 26.088
+        }
+      ]
+    },
+    {
+      "id": "cap014",
+      "start": 26.088,
+      "end": 26.57,
+      "words": [
+        {
+          "text": "skirt.",
+          "start": 26.088,
+          "end": 26.57
+        }
+      ]
+    },
+    {
+      "id": "cap015",
+      "start": 26.57,
+      "end": 28.659,
+      "words": [
+        {
+          "text": "It's",
+          "start": 26.57,
+          "end": 26.974
+        },
+        {
+          "text": "in",
+          "start": 26.974,
+          "end": 27.177
+        },
+        {
+          "text": "here",
+          "start": 27.177,
+          "end": 27.514
+        },
+        {
+          "text": "somewhere,",
+          "start": 27.514,
+          "end": 28.322
+        },
+        {
+          "text": "Lyra",
+          "start": 28.322,
+          "end": 28.659
+        }
+      ]
+    },
+    {
+      "id": "cap016",
+      "start": 28.659,
+      "end": 31.086,
+      "words": [
+        {
+          "text": "said",
+          "start": 28.659,
+          "end": 28.996
+        },
+        {
+          "text": "confidently,",
+          "start": 28.996,
+          "end": 29.872
+        },
+        {
+          "text": "marching",
+          "start": 29.872,
+          "end": 30.479
+        },
+        {
+          "text": "into",
+          "start": 30.479,
+          "end": 30.816
+        },
+        {
+          "text": "her",
+          "start": 30.816,
+          "end": 31.086
+        }
+      ]
+    },
+    {
+      "id": "cap017",
+      "start": 31.086,
+      "end": 31.49,
+      "words": [
+        {
+          "text": "room.",
+          "start": 31.086,
+          "end": 31.49
+        }
+      ]
+    },
+    {
+      "id": "cap018",
+      "start": 31.49,
+      "end": 33.558,
+      "words": [
+        {
+          "text": "Twenty",
+          "start": 31.49,
+          "end": 31.973
+        },
+        {
+          "text": "minutes",
+          "start": 31.973,
+          "end": 32.524
+        },
+        {
+          "text": "later,",
+          "start": 32.524,
+          "end": 33.007
+        },
+        {
+          "text": "she",
+          "start": 33.007,
+          "end": 33.282
+        },
+        {
+          "text": "was",
+          "start": 33.282,
+          "end": 33.558
+        }
+      ]
+    },
+    {
+      "id": "cap019",
+      "start": 33.558,
+      "end": 34.937,
+      "words": [
+        {
+          "text": "buried",
+          "start": 33.558,
+          "end": 34.041
+        },
+        {
+          "text": "in",
+          "start": 34.041,
+          "end": 34.248
+        },
+        {
+          "text": "a",
+          "start": 34.248,
+          "end": 34.385
+        },
+        {
+          "text": "pile",
+          "start": 34.385,
+          "end": 34.73
+        },
+        {
+          "text": "of",
+          "start": 34.73,
+          "end": 34.937
+        }
+      ]
+    },
+    {
+      "id": "cap020",
+      "start": 34.937,
+      "end": 36.729,
+      "words": [
+        {
+          "text": "dresses,",
+          "start": 34.937,
+          "end": 35.557
+        },
+        {
+          "text": "one",
+          "start": 35.557,
+          "end": 35.833
+        },
+        {
+          "text": "shoe",
+          "start": 35.833,
+          "end": 36.178
+        },
+        {
+          "text": "on,",
+          "start": 36.178,
+          "end": 36.454
+        },
+        {
+          "text": "one",
+          "start": 36.454,
+          "end": 36.729
+        }
+      ]
+    },
+    {
+      "id": "cap021",
+      "start": 36.729,
+      "end": 37.695,
+      "words": [
+        {
+          "text": "shoe",
+          "start": 36.729,
+          "end": 37.074
+        },
+        {
+          "text": "missing.",
+          "start": 37.074,
+          "end": 37.695
+        }
+      ]
+    },
+    {
+      "id": "cap022",
+      "start": 37.695,
+      "end": 38.177,
+      "words": [
+        {
+          "text": "Aha!",
+          "start": 37.695,
+          "end": 38.177
+        }
+      ]
+    },
+    {
+      "id": "cap023",
+      "start": 38.177,
+      "end": 40.039,
+      "words": [
+        {
+          "text": "she",
+          "start": 38.177,
+          "end": 38.453
+        },
+        {
+          "text": "said,",
+          "start": 38.453,
+          "end": 38.867
+        },
+        {
+          "text": "pulling",
+          "start": 38.867,
+          "end": 39.418
+        },
+        {
+          "text": "a",
+          "start": 39.418,
+          "end": 39.556
+        },
+        {
+          "text": "yellow",
+          "start": 39.556,
+          "end": 40.039
+        }
+      ]
+    },
+    {
+      "id": "cap024",
+      "start": 40.039,
+      "end": 41.9,
+      "words": [
+        {
+          "text": "fabric",
+          "start": 40.039,
+          "end": 40.521
+        },
+        {
+          "text": "from",
+          "start": 40.521,
+          "end": 40.866
+        },
+        {
+          "text": "under",
+          "start": 40.866,
+          "end": 41.28
+        },
+        {
+          "text": "the",
+          "start": 41.28,
+          "end": 41.555
+        },
+        {
+          "text": "bed.",
+          "start": 41.555,
+          "end": 41.9
+        }
+      ]
+    },
+    {
+      "id": "cap025",
+      "start": 41.9,
+      "end": 43.9,
+      "words": [
+        {
+          "text": "It",
+          "start": 41.9,
+          "end": 42.114
+        },
+        {
+          "text": "was",
+          "start": 42.114,
+          "end": 42.4
+        },
+        {
+          "text": "a",
+          "start": 42.4,
+          "end": 42.543
+        },
+        {
+          "text": "yellow",
+          "start": 42.543,
+          "end": 43.043
+        },
+        {
+          "text": "pillowcase.",
+          "start": 43.043,
+          "end": 43.9
+        }
+      ]
+    },
+    {
+      "id": "cap026",
+      "start": 43.9,
+      "end": 46.231,
+      "words": [
+        {
+          "text": "Not",
+          "start": 43.9,
+          "end": 44.233
+        },
+        {
+          "text": "quite,",
+          "start": 44.233,
+          "end": 44.766
+        },
+        {
+          "text": "Lyra",
+          "start": 44.766,
+          "end": 45.099
+        },
+        {
+          "text": "sighed,",
+          "start": 45.099,
+          "end": 45.631
+        },
+        {
+          "text": "flopping",
+          "start": 45.631,
+          "end": 46.231
+        }
+      ]
+    },
+    {
+      "id": "cap027",
+      "start": 46.231,
+      "end": 47.829,
+      "words": [
+        {
+          "text": "backward",
+          "start": 46.231,
+          "end": 46.83
+        },
+        {
+          "text": "onto",
+          "start": 46.83,
+          "end": 47.163
+        },
+        {
+          "text": "a",
+          "start": 47.163,
+          "end": 47.296
+        },
+        {
+          "text": "pile",
+          "start": 47.296,
+          "end": 47.629
+        },
+        {
+          "text": "of",
+          "start": 47.629,
+          "end": 47.829
+        }
+      ]
+    },
+    {
+      "id": "cap028",
+      "start": 47.829,
+      "end": 49.96,
+      "words": [
+        {
+          "text": "petticoats",
+          "start": 47.829,
+          "end": 48.562
+        },
+        {
+          "text": "with",
+          "start": 48.562,
+          "end": 48.895
+        },
+        {
+          "text": "a",
+          "start": 48.895,
+          "end": 49.028
+        },
+        {
+          "text": "small",
+          "start": 49.028,
+          "end": 49.427
+        },
+        {
+          "text": "poof.",
+          "start": 49.427,
+          "end": 49.96
+        }
+      ]
+    },
+    {
+      "id": "cap029",
+      "start": 49.96,
+      "end": 51.854,
+      "words": [
+        {
+          "text": "Just",
+          "start": 49.96,
+          "end": 50.287
+        },
+        {
+          "text": "then,",
+          "start": 50.287,
+          "end": 50.678
+        },
+        {
+          "text": "her",
+          "start": 50.678,
+          "end": 50.94
+        },
+        {
+          "text": "little",
+          "start": 50.94,
+          "end": 51.397
+        },
+        {
+          "text": "palace",
+          "start": 51.397,
+          "end": 51.854
+        }
+      ]
+    },
+    {
+      "id": "cap030",
+      "start": 51.854,
+      "end": 54.009,
+      "words": [
+        {
+          "text": "mouse",
+          "start": 51.854,
+          "end": 52.246
+        },
+        {
+          "text": "friend,",
+          "start": 52.246,
+          "end": 52.768
+        },
+        {
+          "text": "Nibbles,",
+          "start": 52.768,
+          "end": 53.356
+        },
+        {
+          "text": "poked",
+          "start": 53.356,
+          "end": 53.748
+        },
+        {
+          "text": "his",
+          "start": 53.748,
+          "end": 54.009
+        }
+      ]
+    },
+    {
+      "id": "cap031",
+      "start": 54.009,
+      "end": 55.315,
+      "words": [
+        {
+          "text": "head",
+          "start": 54.009,
+          "end": 54.336
+        },
+        {
+          "text": "out",
+          "start": 54.336,
+          "end": 54.597
+        },
+        {
+          "text": "of",
+          "start": 54.597,
+          "end": 54.793
+        },
+        {
+          "text": "a",
+          "start": 54.793,
+          "end": 54.923
+        },
+        {
+          "text": "fuzzy",
+          "start": 54.923,
+          "end": 55.315
+        }
+      ]
+    },
+    {
+      "id": "cap032",
+      "start": 55.315,
+      "end": 57.34,
+      "words": [
+        {
+          "text": "slipper,",
+          "start": 55.315,
+          "end": 55.903
+        },
+        {
+          "text": "one",
+          "start": 55.903,
+          "end": 56.164
+        },
+        {
+          "text": "of",
+          "start": 56.164,
+          "end": 56.36
+        },
+        {
+          "text": "Lyra's",
+          "start": 56.36,
+          "end": 56.817
+        },
+        {
+          "text": "ribbons",
+          "start": 56.817,
+          "end": 57.34
+        }
+      ]
+    },
+    {
+      "id": "cap033",
+      "start": 57.34,
+      "end": 58.842,
+      "words": [
+        {
+          "text": "tied",
+          "start": 57.34,
+          "end": 57.666
+        },
+        {
+          "text": "around",
+          "start": 57.666,
+          "end": 58.123
+        },
+        {
+          "text": "him",
+          "start": 58.123,
+          "end": 58.384
+        },
+        {
+          "text": "like",
+          "start": 58.384,
+          "end": 58.711
+        },
+        {
+          "text": "a",
+          "start": 58.711,
+          "end": 58.842
+        }
+      ]
+    },
+    {
+      "id": "cap034",
+      "start": 58.842,
+      "end": 59.56,
+      "words": [
+        {
+          "text": "tiny",
+          "start": 58.842,
+          "end": 59.168
+        },
+        {
+          "text": "cape.",
+          "start": 59.168,
+          "end": 59.56
+        }
+      ]
+    },
+    {
+      "id": "cap035",
+      "start": 59.56,
+      "end": 60.649,
+      "words": [
+        {
+          "text": "Nibbles!",
+          "start": 59.56,
+          "end": 60.649
+        }
+      ]
+    },
+    {
+      "id": "cap036",
+      "start": 60.649,
+      "end": 63.155,
+      "words": [
+        {
+          "text": "Why",
+          "start": 60.649,
+          "end": 61.085
+        },
+        {
+          "text": "are",
+          "start": 61.085,
+          "end": 61.521
+        },
+        {
+          "text": "you",
+          "start": 61.521,
+          "end": 61.956
+        },
+        {
+          "text": "wearing",
+          "start": 61.956,
+          "end": 62.828
+        },
+        {
+          "text": "my",
+          "start": 62.828,
+          "end": 63.155
+        }
+      ]
+    },
+    {
+      "id": "cap037",
+      "start": 63.155,
+      "end": 64.135,
+      "words": [
+        {
+          "text": "ribbon?",
+          "start": 63.155,
+          "end": 64.135
+        }
+      ]
+    },
+    {
+      "id": "cap038",
+      "start": 64.135,
+      "end": 68.056,
+      "words": [
+        {
+          "text": "Nibbles",
+          "start": 64.135,
+          "end": 65.006
+        },
+        {
+          "text": "squeaked",
+          "start": 65.006,
+          "end": 65.987
+        },
+        {
+          "text": "proudly",
+          "start": 65.987,
+          "end": 66.858
+        },
+        {
+          "text": "and",
+          "start": 66.858,
+          "end": 67.294
+        },
+        {
+          "text": "struck",
+          "start": 67.294,
+          "end": 68.056
+        }
+      ]
+    },
+    {
+      "id": "cap039",
+      "start": 68.056,
+      "end": 69.69,
+      "words": [
+        {
+          "text": "a",
+          "start": 68.056,
+          "end": 68.274
+        },
+        {
+          "text": "heroic",
+          "start": 68.274,
+          "end": 69.036
+        },
+        {
+          "text": "pose.",
+          "start": 69.036,
+          "end": 69.69
+        }
+      ]
+    },
+    {
+      "id": "cap040",
+      "start": 69.69,
+      "end": 70.9,
+      "words": [
+        {
+          "text": "Lyra",
+          "start": 69.69,
+          "end": 70.122
+        },
+        {
+          "text": "giggled.",
+          "start": 70.122,
+          "end": 70.9
+        }
+      ]
+    },
+    {
+      "id": "cap041",
+      "start": 70.9,
+      "end": 72.8,
+      "words": [
+        {
+          "text": "Okay,",
+          "start": 70.9,
+          "end": 71.504
+        },
+        {
+          "text": "Super",
+          "start": 71.504,
+          "end": 72.023
+        },
+        {
+          "text": "Nibbles.",
+          "start": 72.023,
+          "end": 72.8
+        }
+      ]
+    },
+    {
+      "id": "cap042",
+      "start": 72.8,
+      "end": 75.306,
+      "words": [
+        {
+          "text": "Even",
+          "start": 72.8,
+          "end": 73.232
+        },
+        {
+          "text": "you",
+          "start": 73.232,
+          "end": 73.578
+        },
+        {
+          "text": "look",
+          "start": 73.578,
+          "end": 74.01
+        },
+        {
+          "text": "more",
+          "start": 74.01,
+          "end": 74.442
+        },
+        {
+          "text": "organized",
+          "start": 74.442,
+          "end": 75.306
+        }
+      ]
+    },
+    {
+      "id": "cap043",
+      "start": 75.306,
+      "end": 76.774,
+      "words": [
+        {
+          "text": "than",
+          "start": 75.306,
+          "end": 75.738
+        },
+        {
+          "text": "this",
+          "start": 75.738,
+          "end": 76.17
+        },
+        {
+          "text": "room.",
+          "start": 76.17,
+          "end": 76.774
+        }
+      ]
+    },
+    {
+      "id": "cap044",
+      "start": 76.774,
+      "end": 78.589,
+      "words": [
+        {
+          "text": "She",
+          "start": 76.774,
+          "end": 77.12
+        },
+        {
+          "text": "put",
+          "start": 77.12,
+          "end": 77.465
+        },
+        {
+          "text": "her",
+          "start": 77.465,
+          "end": 77.811
+        },
+        {
+          "text": "hands",
+          "start": 77.811,
+          "end": 78.329
+        },
+        {
+          "text": "on",
+          "start": 78.329,
+          "end": 78.589
+        }
+      ]
+    },
+    {
+      "id": "cap045",
+      "start": 78.589,
+      "end": 79.452,
+      "words": [
+        {
+          "text": "her",
+          "start": 78.589,
+          "end": 78.934
+        },
+        {
+          "text": "hips.",
+          "start": 78.934,
+          "end": 79.452
+        }
+      ]
+    },
+    {
+      "id": "cap046",
+      "start": 79.452,
+      "end": 81.353,
+      "words": [
+        {
+          "text": "Alright",
+          "start": 79.452,
+          "end": 80.23
+        },
+        {
+          "text": "\u2014",
+          "start": 80.23,
+          "end": 80.403
+        },
+        {
+          "text": "if",
+          "start": 80.403,
+          "end": 80.662
+        },
+        {
+          "text": "I",
+          "start": 80.662,
+          "end": 80.835
+        },
+        {
+          "text": "don't",
+          "start": 80.835,
+          "end": 81.353
+        }
+      ]
+    },
+    {
+      "id": "cap047",
+      "start": 81.353,
+      "end": 83.599,
+      "words": [
+        {
+          "text": "clean",
+          "start": 81.353,
+          "end": 81.871
+        },
+        {
+          "text": "this",
+          "start": 81.871,
+          "end": 82.303
+        },
+        {
+          "text": "up,",
+          "start": 82.303,
+          "end": 82.649
+        },
+        {
+          "text": "I'll",
+          "start": 82.649,
+          "end": 83.081
+        },
+        {
+          "text": "never",
+          "start": 83.081,
+          "end": 83.599
+        }
+      ]
+    },
+    {
+      "id": "cap048",
+      "start": 83.599,
+      "end": 85.5,
+      "words": [
+        {
+          "text": "find",
+          "start": 83.599,
+          "end": 84.031
+        },
+        {
+          "text": "anything",
+          "start": 84.031,
+          "end": 84.809
+        },
+        {
+          "text": "again!",
+          "start": 84.809,
+          "end": 85.5
+        }
+      ]
+    },
+    {
+      "id": "cap049",
+      "start": 85.5,
+      "end": 86.985,
+      "words": [
+        {
+          "text": "She",
+          "start": 85.5,
+          "end": 85.758
+        },
+        {
+          "text": "wound",
+          "start": 85.758,
+          "end": 86.146
+        },
+        {
+          "text": "up",
+          "start": 86.146,
+          "end": 86.339
+        },
+        {
+          "text": "her",
+          "start": 86.339,
+          "end": 86.597
+        },
+        {
+          "text": "music",
+          "start": 86.597,
+          "end": 86.985
+        }
+      ]
+    },
+    {
+      "id": "cap050",
+      "start": 86.985,
+      "end": 88.921,
+      "words": [
+        {
+          "text": "box,",
+          "start": 86.985,
+          "end": 87.307
+        },
+        {
+          "text": "and",
+          "start": 87.307,
+          "end": 87.566
+        },
+        {
+          "text": "cheerful",
+          "start": 87.566,
+          "end": 88.147
+        },
+        {
+          "text": "music",
+          "start": 88.147,
+          "end": 88.534
+        },
+        {
+          "text": "began",
+          "start": 88.534,
+          "end": 88.921
+        }
+      ]
+    },
+    {
+      "id": "cap051",
+      "start": 88.921,
+      "end": 89.502,
+      "words": [
+        {
+          "text": "to",
+          "start": 88.921,
+          "end": 89.115
+        },
+        {
+          "text": "play.",
+          "start": 89.115,
+          "end": 89.502
+        }
+      ]
+    },
+    {
+      "id": "cap052",
+      "start": 89.502,
+      "end": 91.181,
+      "words": [
+        {
+          "text": "Lyra",
+          "start": 89.502,
+          "end": 89.825
+        },
+        {
+          "text": "danced",
+          "start": 89.825,
+          "end": 90.277
+        },
+        {
+          "text": "as",
+          "start": 90.277,
+          "end": 90.47
+        },
+        {
+          "text": "she",
+          "start": 90.47,
+          "end": 90.729
+        },
+        {
+          "text": "tidied",
+          "start": 90.729,
+          "end": 91.181
+        }
+      ]
+    },
+    {
+      "id": "cap053",
+      "start": 91.181,
+      "end": 92.988,
+      "words": [
+        {
+          "text": "\u2014",
+          "start": 91.181,
+          "end": 91.31
+        },
+        {
+          "text": "sorting",
+          "start": 91.31,
+          "end": 91.826
+        },
+        {
+          "text": "dresses",
+          "start": 91.826,
+          "end": 92.342
+        },
+        {
+          "text": "by",
+          "start": 92.342,
+          "end": 92.536
+        },
+        {
+          "text": "color,",
+          "start": 92.536,
+          "end": 92.988
+        }
+      ]
+    },
+    {
+      "id": "cap054",
+      "start": 92.988,
+      "end": 95.118,
+      "words": [
+        {
+          "text": "twirling",
+          "start": 92.988,
+          "end": 93.569
+        },
+        {
+          "text": "each",
+          "start": 93.569,
+          "end": 93.892
+        },
+        {
+          "text": "one",
+          "start": 93.892,
+          "end": 94.15
+        },
+        {
+          "text": "before",
+          "start": 94.15,
+          "end": 94.602
+        },
+        {
+          "text": "hanging",
+          "start": 94.602,
+          "end": 95.118
+        }
+      ]
+    },
+    {
+      "id": "cap055",
+      "start": 95.118,
+      "end": 95.57,
+      "words": [
+        {
+          "text": "it",
+          "start": 95.118,
+          "end": 95.312
+        },
+        {
+          "text": "up.",
+          "start": 95.312,
+          "end": 95.57
+        }
+      ]
+    },
+    {
+      "id": "cap056",
+      "start": 95.57,
+      "end": 97.779,
+      "words": [
+        {
+          "text": "A",
+          "start": 95.57,
+          "end": 95.754
+        },
+        {
+          "text": "scarf",
+          "start": 95.754,
+          "end": 96.306
+        },
+        {
+          "text": "landed",
+          "start": 96.306,
+          "end": 96.95
+        },
+        {
+          "text": "right",
+          "start": 96.95,
+          "end": 97.502
+        },
+        {
+          "text": "on",
+          "start": 97.502,
+          "end": 97.779
+        }
+      ]
+    },
+    {
+      "id": "cap057",
+      "start": 97.779,
+      "end": 100.447,
+      "words": [
+        {
+          "text": "Nibbles'",
+          "start": 97.779,
+          "end": 98.607
+        },
+        {
+          "text": "head",
+          "start": 98.607,
+          "end": 99.067
+        },
+        {
+          "text": "like",
+          "start": 99.067,
+          "end": 99.527
+        },
+        {
+          "text": "a",
+          "start": 99.527,
+          "end": 99.711
+        },
+        {
+          "text": "turban.",
+          "start": 99.711,
+          "end": 100.447
+        }
+      ]
+    },
+    {
+      "id": "cap058",
+      "start": 100.447,
+      "end": 102.104,
+      "words": [
+        {
+          "text": "Sorry,",
+          "start": 100.447,
+          "end": 101.183
+        },
+        {
+          "text": "Nibbles!",
+          "start": 101.183,
+          "end": 102.104
+        }
+      ]
+    },
+    {
+      "id": "cap059",
+      "start": 102.104,
+      "end": 103.3,
+      "words": [
+        {
+          "text": "she",
+          "start": 102.104,
+          "end": 102.472
+        },
+        {
+          "text": "laughed.",
+          "start": 102.472,
+          "end": 103.3
+        }
+      ]
+    },
+    {
+      "id": "cap060",
+      "start": 103.3,
+      "end": 105.732,
+      "words": [
+        {
+          "text": "One",
+          "start": 103.3,
+          "end": 103.614
+        },
+        {
+          "text": "stubborn",
+          "start": 103.614,
+          "end": 104.32
+        },
+        {
+          "text": "glittery",
+          "start": 104.32,
+          "end": 105.026
+        },
+        {
+          "text": "shoe",
+          "start": 105.026,
+          "end": 105.418
+        },
+        {
+          "text": "had",
+          "start": 105.418,
+          "end": 105.732
+        }
+      ]
+    },
+    {
+      "id": "cap061",
+      "start": 105.732,
+      "end": 108.243,
+      "words": [
+        {
+          "text": "wedged",
+          "start": 105.732,
+          "end": 106.282
+        },
+        {
+          "text": "itself",
+          "start": 106.282,
+          "end": 106.831
+        },
+        {
+          "text": "behind",
+          "start": 106.831,
+          "end": 107.38
+        },
+        {
+          "text": "a",
+          "start": 107.38,
+          "end": 107.537
+        },
+        {
+          "text": "curtain.",
+          "start": 107.537,
+          "end": 108.243
+        }
+      ]
+    },
+    {
+      "id": "cap062",
+      "start": 108.243,
+      "end": 110.44,
+      "words": [
+        {
+          "text": "Lyra",
+          "start": 108.243,
+          "end": 108.635
+        },
+        {
+          "text": "tugged",
+          "start": 108.635,
+          "end": 109.185
+        },
+        {
+          "text": "with",
+          "start": 109.185,
+          "end": 109.577
+        },
+        {
+          "text": "both",
+          "start": 109.577,
+          "end": 109.969
+        },
+        {
+          "text": "hands",
+          "start": 109.969,
+          "end": 110.44
+        }
+      ]
+    },
+    {
+      "id": "cap063",
+      "start": 110.44,
+      "end": 112.794,
+      "words": [
+        {
+          "text": "until",
+          "start": 110.44,
+          "end": 110.911
+        },
+        {
+          "text": "it",
+          "start": 110.911,
+          "end": 111.146
+        },
+        {
+          "text": "popped",
+          "start": 111.146,
+          "end": 111.695
+        },
+        {
+          "text": "free,",
+          "start": 111.695,
+          "end": 112.166
+        },
+        {
+          "text": "sending",
+          "start": 112.166,
+          "end": 112.794
+        }
+      ]
+    },
+    {
+      "id": "cap064",
+      "start": 112.794,
+      "end": 115.069,
+      "words": [
+        {
+          "text": "her",
+          "start": 112.794,
+          "end": 113.108
+        },
+        {
+          "text": "tumbling",
+          "start": 113.108,
+          "end": 113.814
+        },
+        {
+          "text": "backward",
+          "start": 113.814,
+          "end": 114.52
+        },
+        {
+          "text": "onto",
+          "start": 114.52,
+          "end": 114.912
+        },
+        {
+          "text": "a",
+          "start": 114.912,
+          "end": 115.069
+        }
+      ]
+    },
+    {
+      "id": "cap065",
+      "start": 115.069,
+      "end": 117.58,
+      "words": [
+        {
+          "text": "cushion",
+          "start": 115.069,
+          "end": 115.697
+        },
+        {
+          "text": "with",
+          "start": 115.697,
+          "end": 116.089
+        },
+        {
+          "text": "a",
+          "start": 116.089,
+          "end": 116.246
+        },
+        {
+          "text": "surprised",
+          "start": 116.246,
+          "end": 117.031
+        },
+        {
+          "text": "oof!",
+          "start": 117.031,
+          "end": 117.58
+        }
+      ]
+    },
+    {
+      "id": "cap066",
+      "start": 117.58,
+      "end": 120.276,
+      "words": [
+        {
+          "text": "Ribbon",
+          "start": 117.58,
+          "end": 118.17
+        },
+        {
+          "text": "by",
+          "start": 118.17,
+          "end": 118.423
+        },
+        {
+          "text": "ribbon,",
+          "start": 118.423,
+          "end": 119.097
+        },
+        {
+          "text": "she",
+          "start": 119.097,
+          "end": 119.434
+        },
+        {
+          "text": "untangled",
+          "start": 119.434,
+          "end": 120.276
+        }
+      ]
+    },
+    {
+      "id": "cap067",
+      "start": 120.276,
+      "end": 122.551,
+      "words": [
+        {
+          "text": "the",
+          "start": 120.276,
+          "end": 120.613
+        },
+        {
+          "text": "chandelier",
+          "start": 120.613,
+          "end": 121.54
+        },
+        {
+          "text": "\u2014",
+          "start": 121.54,
+          "end": 121.708
+        },
+        {
+          "text": "and",
+          "start": 121.708,
+          "end": 122.045
+        },
+        {
+          "text": "there",
+          "start": 122.045,
+          "end": 122.551
+        }
+      ]
+    },
+    {
+      "id": "cap068",
+      "start": 122.551,
+      "end": 124.741,
+      "words": [
+        {
+          "text": "it",
+          "start": 122.551,
+          "end": 122.804
+        },
+        {
+          "text": "was,",
+          "start": 122.804,
+          "end": 123.225
+        },
+        {
+          "text": "hanging",
+          "start": 123.225,
+          "end": 123.899
+        },
+        {
+          "text": "neatly",
+          "start": 123.899,
+          "end": 124.489
+        },
+        {
+          "text": "at",
+          "start": 124.489,
+          "end": 124.741
+        }
+      ]
+    },
+    {
+      "id": "cap069",
+      "start": 124.741,
+      "end": 127.437,
+      "words": [
+        {
+          "text": "last:",
+          "start": 124.741,
+          "end": 125.247
+        },
+        {
+          "text": "her",
+          "start": 125.247,
+          "end": 125.584
+        },
+        {
+          "text": "sunshine",
+          "start": 125.584,
+          "end": 126.342
+        },
+        {
+          "text": "yellow",
+          "start": 126.342,
+          "end": 126.932
+        },
+        {
+          "text": "dress",
+          "start": 126.932,
+          "end": 127.437
+        }
+      ]
+    },
+    {
+      "id": "cap070",
+      "start": 127.437,
+      "end": 129.375,
+      "words": [
+        {
+          "text": "with",
+          "start": 127.437,
+          "end": 127.859
+        },
+        {
+          "text": "the",
+          "start": 127.859,
+          "end": 128.196
+        },
+        {
+          "text": "twirly",
+          "start": 128.196,
+          "end": 128.785
+        },
+        {
+          "text": "skirt.",
+          "start": 128.785,
+          "end": 129.375
+        }
+      ]
+    },
+    {
+      "id": "cap071",
+      "start": 129.375,
+      "end": 130.47,
+      "words": [
+        {
+          "text": "Found",
+          "start": 129.375,
+          "end": 129.965
+        },
+        {
+          "text": "you!",
+          "start": 129.965,
+          "end": 130.47
+        }
+      ]
+    },
+    {
+      "id": "cap072",
+      "start": 130.47,
+      "end": 131.65,
+      "words": [
+        {
+          "text": "Lyra",
+          "start": 130.47,
+          "end": 130.892
+        },
+        {
+          "text": "cheered.",
+          "start": 130.892,
+          "end": 131.65
+        }
+      ]
+    },
+    {
+      "id": "cap073",
+      "start": 131.65,
+      "end": 132.848,
+      "words": [
+        {
+          "text": "She",
+          "start": 131.65,
+          "end": 131.868
+        },
+        {
+          "text": "slipped",
+          "start": 131.868,
+          "end": 132.304
+        },
+        {
+          "text": "it",
+          "start": 132.304,
+          "end": 132.467
+        },
+        {
+          "text": "on",
+          "start": 132.467,
+          "end": 132.63
+        },
+        {
+          "text": "and",
+          "start": 132.63,
+          "end": 132.848
+        }
+      ]
+    },
+    {
+      "id": "cap074",
+      "start": 132.848,
+      "end": 134.155,
+      "words": [
+        {
+          "text": "twirled",
+          "start": 132.848,
+          "end": 133.284
+        },
+        {
+          "text": "in",
+          "start": 133.284,
+          "end": 133.447
+        },
+        {
+          "text": "front",
+          "start": 133.447,
+          "end": 133.774
+        },
+        {
+          "text": "of",
+          "start": 133.774,
+          "end": 133.938
+        },
+        {
+          "text": "the",
+          "start": 133.938,
+          "end": 134.155
+        }
+      ]
+    },
+    {
+      "id": "cap075",
+      "start": 134.155,
+      "end": 135.844,
+      "words": [
+        {
+          "text": "mirror,",
+          "start": 134.155,
+          "end": 134.591
+        },
+        {
+          "text": "the",
+          "start": 134.591,
+          "end": 134.809
+        },
+        {
+          "text": "skirt",
+          "start": 134.809,
+          "end": 135.136
+        },
+        {
+          "text": "spinning",
+          "start": 135.136,
+          "end": 135.626
+        },
+        {
+          "text": "out",
+          "start": 135.626,
+          "end": 135.844
+        }
+      ]
+    },
+    {
+      "id": "cap076",
+      "start": 135.844,
+      "end": 137.26,
+      "words": [
+        {
+          "text": "just",
+          "start": 135.844,
+          "end": 136.116
+        },
+        {
+          "text": "like",
+          "start": 136.116,
+          "end": 136.389
+        },
+        {
+          "text": "she",
+          "start": 136.389,
+          "end": 136.606
+        },
+        {
+          "text": "remembered.",
+          "start": 136.606,
+          "end": 137.26
+        }
+      ]
+    },
+    {
+      "id": "cap077",
+      "start": 137.26,
+      "end": 139.277,
+      "words": [
+        {
+          "text": "Her",
+          "start": 137.26,
+          "end": 137.548
+        },
+        {
+          "text": "room",
+          "start": 137.548,
+          "end": 137.908
+        },
+        {
+          "text": "sparkled",
+          "start": 137.908,
+          "end": 138.556
+        },
+        {
+          "text": "\u2014",
+          "start": 138.556,
+          "end": 138.7
+        },
+        {
+          "text": "dresses",
+          "start": 138.7,
+          "end": 139.277
+        }
+      ]
+    },
+    {
+      "id": "cap078",
+      "start": 139.277,
+      "end": 141.149,
+      "words": [
+        {
+          "text": "sorted",
+          "start": 139.277,
+          "end": 139.781
+        },
+        {
+          "text": "by",
+          "start": 139.781,
+          "end": 139.997
+        },
+        {
+          "text": "color,",
+          "start": 139.997,
+          "end": 140.501
+        },
+        {
+          "text": "shoes",
+          "start": 140.501,
+          "end": 140.933
+        },
+        {
+          "text": "in",
+          "start": 140.933,
+          "end": 141.149
+        }
+      ]
+    },
+    {
+      "id": "cap079",
+      "start": 141.149,
+      "end": 143.166,
+      "words": [
+        {
+          "text": "tidy",
+          "start": 141.149,
+          "end": 141.509
+        },
+        {
+          "text": "pairs,",
+          "start": 141.509,
+          "end": 142.014
+        },
+        {
+          "text": "ribbons",
+          "start": 142.014,
+          "end": 142.59
+        },
+        {
+          "text": "tied",
+          "start": 142.59,
+          "end": 142.95
+        },
+        {
+          "text": "in",
+          "start": 142.95,
+          "end": 143.166
+        }
+      ]
+    },
+    {
+      "id": "cap080",
+      "start": 143.166,
+      "end": 144.03,
+      "words": [
+        {
+          "text": "soft",
+          "start": 143.166,
+          "end": 143.526
+        },
+        {
+          "text": "loops.",
+          "start": 143.526,
+          "end": 144.03
+        }
+      ]
+    },
+    {
+      "id": "cap081",
+      "start": 144.03,
+      "end": 145.975,
+      "words": [
+        {
+          "text": "Nibbles",
+          "start": 144.03,
+          "end": 144.607
+        },
+        {
+          "text": "sat",
+          "start": 144.607,
+          "end": 144.895
+        },
+        {
+          "text": "proudly",
+          "start": 144.895,
+          "end": 145.471
+        },
+        {
+          "text": "atop",
+          "start": 145.471,
+          "end": 145.831
+        },
+        {
+          "text": "a",
+          "start": 145.831,
+          "end": 145.975
+        }
+      ]
+    },
+    {
+      "id": "cap082",
+      "start": 145.975,
+      "end": 148.28,
+      "words": [
+        {
+          "text": "stack",
+          "start": 145.975,
+          "end": 146.407
+        },
+        {
+          "text": "of",
+          "start": 146.407,
+          "end": 146.623
+        },
+        {
+          "text": "scarves,",
+          "start": 146.623,
+          "end": 147.271
+        },
+        {
+          "text": "still",
+          "start": 147.271,
+          "end": 147.704
+        },
+        {
+          "text": "wearing",
+          "start": 147.704,
+          "end": 148.28
+        }
+      ]
+    },
+    {
+      "id": "cap083",
+      "start": 148.28,
+      "end": 149.0,
+      "words": [
+        {
+          "text": "his",
+          "start": 148.28,
+          "end": 148.568
+        },
+        {
+          "text": "cape.",
+          "start": 148.568,
+          "end": 149.0
+        }
+      ]
+    },
+    {
+      "id": "cap084",
+      "start": 149.0,
+      "end": 150.733,
+      "words": [
+        {
+          "text": "Thanks",
+          "start": 149.0,
+          "end": 149.495
+        },
+        {
+          "text": "for",
+          "start": 149.495,
+          "end": 149.743
+        },
+        {
+          "text": "the",
+          "start": 149.743,
+          "end": 149.99
+        },
+        {
+          "text": "help,",
+          "start": 149.99,
+          "end": 150.362
+        },
+        {
+          "text": "Super",
+          "start": 150.362,
+          "end": 150.733
+        }
+      ]
+    },
+    {
+      "id": "cap085",
+      "start": 150.733,
+      "end": 152.405,
+      "words": [
+        {
+          "text": "Nibbles,",
+          "start": 150.733,
+          "end": 151.352
+        },
+        {
+          "text": "Lyra",
+          "start": 151.352,
+          "end": 151.662
+        },
+        {
+          "text": "said",
+          "start": 151.662,
+          "end": 151.971
+        },
+        {
+          "text": "with",
+          "start": 151.971,
+          "end": 152.281
+        },
+        {
+          "text": "a",
+          "start": 152.281,
+          "end": 152.405
+        }
+      ]
+    },
+    {
+      "id": "cap086",
+      "start": 152.405,
+      "end": 153.952,
+      "words": [
+        {
+          "text": "wink,",
+          "start": 152.405,
+          "end": 152.776
+        },
+        {
+          "text": "heading",
+          "start": 152.776,
+          "end": 153.271
+        },
+        {
+          "text": "off",
+          "start": 153.271,
+          "end": 153.519
+        },
+        {
+          "text": "to",
+          "start": 153.519,
+          "end": 153.705
+        },
+        {
+          "text": "the",
+          "start": 153.705,
+          "end": 153.952
+        }
+      ]
+    },
+    {
+      "id": "cap087",
+      "start": 153.952,
+      "end": 155.5,
+      "words": [
+        {
+          "text": "tea",
+          "start": 153.952,
+          "end": 154.2
+        },
+        {
+          "text": "party",
+          "start": 154.2,
+          "end": 154.571
+        },
+        {
+          "text": "right",
+          "start": 154.571,
+          "end": 154.943
+        },
+        {
+          "text": "on",
+          "start": 154.943,
+          "end": 155.129
+        },
+        {
+          "text": "time.",
+          "start": 155.129,
+          "end": 155.5
+        }
+      ]
+    },
+    {
+      "id": "cap088",
+      "start": 155.5,
+      "end": 157.344,
+      "words": [
+        {
+          "text": "Tidying",
+          "start": 155.5,
+          "end": 155.992
+        },
+        {
+          "text": "up",
+          "start": 155.992,
+          "end": 156.176
+        },
+        {
+          "text": "hadn't",
+          "start": 156.176,
+          "end": 156.607
+        },
+        {
+          "text": "just",
+          "start": 156.607,
+          "end": 156.914
+        },
+        {
+          "text": "helped",
+          "start": 156.914,
+          "end": 157.344
+        }
+      ]
+    },
+    {
+      "id": "cap089",
+      "start": 157.344,
+      "end": 158.943,
+      "words": [
+        {
+          "text": "her",
+          "start": 157.344,
+          "end": 157.59
+        },
+        {
+          "text": "find",
+          "start": 157.59,
+          "end": 157.898
+        },
+        {
+          "text": "her",
+          "start": 157.898,
+          "end": 158.144
+        },
+        {
+          "text": "dress",
+          "start": 158.144,
+          "end": 158.513
+        },
+        {
+          "text": "faster",
+          "start": 158.513,
+          "end": 158.943
+        }
+      ]
+    },
+    {
+      "id": "cap090",
+      "start": 158.943,
+      "end": 160.05,
+      "words": [
+        {
+          "text": "\u2014",
+          "start": 158.943,
+          "end": 159.066
+        },
+        {
+          "text": "it",
+          "start": 159.066,
+          "end": 159.25
+        },
+        {
+          "text": "had",
+          "start": 159.25,
+          "end": 159.496
+        },
+        {
+          "text": "turned",
+          "start": 159.496,
+          "end": 159.927
+        },
+        {
+          "text": "a",
+          "start": 159.927,
+          "end": 160.05
+        }
+      ]
+    },
+    {
+      "id": "cap091",
+      "start": 160.05,
+      "end": 161.833,
+      "words": [
+        {
+          "text": "stressful",
+          "start": 160.05,
+          "end": 160.664
+        },
+        {
+          "text": "morning",
+          "start": 160.664,
+          "end": 161.156
+        },
+        {
+          "text": "into",
+          "start": 161.156,
+          "end": 161.464
+        },
+        {
+          "text": "a",
+          "start": 161.464,
+          "end": 161.587
+        },
+        {
+          "text": "fun",
+          "start": 161.587,
+          "end": 161.833
+        }
+      ]
+    },
+    {
+      "id": "cap092",
+      "start": 161.833,
+      "end": 162.14,
+      "words": [
+        {
+          "text": "one.",
+          "start": 161.833,
+          "end": 162.14
+        }
+      ]
+    },
+    {
+      "id": "cap093",
+      "start": 162.14,
+      "end": 163.764,
+      "words": [
+        {
+          "text": "Because",
+          "start": 162.14,
+          "end": 162.621
+        },
+        {
+          "text": "when",
+          "start": 162.621,
+          "end": 162.922
+        },
+        {
+          "text": "you",
+          "start": 162.922,
+          "end": 163.162
+        },
+        {
+          "text": "take",
+          "start": 163.162,
+          "end": 163.463
+        },
+        {
+          "text": "care",
+          "start": 163.463,
+          "end": 163.764
+        }
+      ]
+    },
+    {
+      "id": "cap094",
+      "start": 163.764,
+      "end": 165.327,
+      "words": [
+        {
+          "text": "of",
+          "start": 163.764,
+          "end": 163.944
+        },
+        {
+          "text": "your",
+          "start": 163.944,
+          "end": 164.245
+        },
+        {
+          "text": "space,",
+          "start": 164.245,
+          "end": 164.666
+        },
+        {
+          "text": "your",
+          "start": 164.666,
+          "end": 164.967
+        },
+        {
+          "text": "space",
+          "start": 164.967,
+          "end": 165.327
+        }
+      ]
+    },
+    {
+      "id": "cap095",
+      "start": 165.327,
+      "end": 166.47,
+      "words": [
+        {
+          "text": "takes",
+          "start": 165.327,
+          "end": 165.688
+        },
+        {
+          "text": "care",
+          "start": 165.688,
+          "end": 165.989
+        },
+        {
+          "text": "of",
+          "start": 165.989,
+          "end": 166.169
+        },
+        {
+          "text": "you.",
+          "start": 166.169,
+          "end": 166.47
+        }
+      ]
+    },
+    {
+      "id": "cap096",
+      "start": 166.47,
+      "end": 167.42,
+      "words": [
+        {
+          "text": "The",
+          "start": 166.47,
+          "end": 166.892
+        },
+        {
+          "text": "End.",
+          "start": 166.892,
+          "end": 167.42
+        }
+      ]
+    }
+  ],
+  "narrations": [
+    {
+      "id": "narration_s01",
+      "src": "narration_s01.wav",
+      "start": 0.3,
+      "duration": 16.617
+    },
+    {
+      "id": "narration_s02",
+      "src": "narration_s02.wav",
+      "start": 16.92,
+      "duration": 9.648
+    },
+    {
+      "id": "narration_s03",
+      "src": "narration_s03.wav",
+      "start": 26.57,
+      "duration": 4.923
+    },
+    {
+      "id": "narration_s04",
+      "src": "narration_s04.wav",
+      "start": 31.49,
+      "duration": 10.413
+    },
+    {
+      "id": "narration_s05",
+      "src": "narration_s05.wav",
+      "start": 41.9,
+      "duration": 1.997
+    },
+    {
+      "id": "narration_s06",
+      "src": "narration_s06.wav",
+      "start": 43.9,
+      "duration": 6.06
+    },
+    {
+      "id": "narration_s07",
+      "src": "narration_s07.wav",
+      "start": 49.96,
+      "duration": 9.601
+    },
+    {
+      "id": "narration_s08",
+      "src": "narration_s08.wav",
+      "start": 59.56,
+      "duration": 10.127
+    },
+    {
+      "id": "narration_s09",
+      "src": "narration_s09.wav",
+      "start": 69.69,
+      "duration": 15.814
+    },
+    {
+      "id": "narration_s10",
+      "src": "narration_s10.wav",
+      "start": 85.5,
+      "duration": 10.066
+    },
+    {
+      "id": "narration_s11",
+      "src": "narration_s11.wav",
+      "start": 95.57,
+      "duration": 7.729
+    },
+    {
+      "id": "narration_s12",
+      "src": "narration_s12.wav",
+      "start": 103.3,
+      "duration": 14.286
+    },
+    {
+      "id": "narration_s13",
+      "src": "narration_s13.wav",
+      "start": 117.58,
+      "duration": 14.068
+    },
+    {
+      "id": "narration_s14",
+      "src": "narration_s14.wav",
+      "start": 131.65,
+      "duration": 5.608
+    },
+    {
+      "id": "narration_s15",
+      "src": "narration_s15.wav",
+      "start": 137.26,
+      "duration": 11.738
+    },
+    {
+      "id": "narration_s16",
+      "src": "narration_s16.wav",
+      "start": 149.0,
+      "duration": 6.502
+    },
+    {
+      "id": "narration_s17",
+      "src": "narration_s17.wav",
+      "start": 155.5,
+      "duration": 6.641
+    },
+    {
+      "id": "narration_s18",
+      "src": "narration_s18.wav",
+      "start": 162.14,
+      "duration": 4.331
+    },
+    {
+      "id": "narration_s19",
+      "src": "narration_s19.wav",
+      "start": 166.47,
+      "duration": 0.952
+    }
+  ],
+  "music": {
+    "src": "dressing_room_score.mp3",
+    "start": 0.0,
+    "duration": 167.42,
+    "baseVolume": 0.7,
+    "duckKeyframes": [
+      {
+        "time": 0.15,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 16.817,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 16.77,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 26.468,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 26.42,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 31.393,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 31.34,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 41.803,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 41.75,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 43.797,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 43.75,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 49.86,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 49.81,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 59.461,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 59.41,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 69.587,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 69.54,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 85.404,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 85.35,
+        "volume": 0.9,
+        "duration": 0.3
+      },
+      {
+        "time": 95.466,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 95.42,
+        "volume": 0.9,
+        "duration": 0.3
+      },
+      {
+        "time": 103.199,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 103.15,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 117.486,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 117.43,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 131.548,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 131.5,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 137.158,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 137.11,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 148.898,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 148.85,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 155.402,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 155.35,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 162.041,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 161.99,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 166.371,
+        "volume": 0.7,
+        "duration": 0.4
+      },
+      {
+        "time": 166.32,
+        "volume": 0.35,
+        "duration": 0.3
+      },
+      {
+        "time": 167.322,
+        "volume": 0.7,
+        "duration": 0.4
+      }
+    ],
+    "fadeInVolume": 0.7,
+    "fadeInDuration": 1.5,
+    "fadeOutAt": 164.92,
+    "fadeOutDuration": 2.5
+  },
+  "sfx": [],
+  "fadeBlackIn": {
+    "start": 0.0,
+    "duration": 0.9
+  },
+  "fadeBlackOut": {
+    "start": 165.82,
+    "duration": 1.6
+  }
+}
