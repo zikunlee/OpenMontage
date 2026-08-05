@@ -139,18 +139,13 @@ const CaptionLayer: React.FC<{ caption: Caption }> = ({ caption }) => {
   if (opacity <= 0) return null;
 
   return (
-    <AbsoluteFill
-      style={{
-        alignItems: "flex-end",
-        justifyContent: "center",
-        paddingBottom: 90,
-        paddingLeft: 60,
-        paddingRight: 60,
-        pointerEvents: "none",
-      }}
-    >
+    <AbsoluteFill style={{ pointerEvents: "none" }}>
       <div
         style={{
+          position: "absolute",
+          top: "68%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
           opacity,
           display: "flex",
           flexWrap: "wrap",

@@ -212,1806 +212,1806 @@
     {
       "id": "cap000",
       "start": 0.3,
-      "end": 2.768,
+      "end": 1.98,
       "words": [
         {
           "text": "Princess",
           "start": 0.3,
-          "end": 1.04
+          "end": 0.62
         },
         {
           "text": "Lyra",
-          "start": 1.04,
-          "end": 1.452
+          "start": 0.62,
+          "end": 1.08
         },
         {
           "text": "loved",
-          "start": 1.452,
-          "end": 1.946
+          "start": 1.08,
+          "end": 1.46
         },
         {
           "text": "her",
-          "start": 1.946,
-          "end": 2.275
+          "start": 1.46,
+          "end": 1.64
         },
         {
           "text": "royal",
-          "start": 2.275,
-          "end": 2.768
+          "start": 1.64,
+          "end": 1.98
         }
       ]
     },
     {
       "id": "cap001",
-      "start": 2.768,
-      "end": 4.002,
+      "start": 1.98,
+      "end": 2.86,
       "words": [
         {
           "text": "dressing",
-          "start": 2.768,
-          "end": 3.509
+          "start": 1.98,
+          "end": 2.42
         },
         {
           "text": "room.",
-          "start": 3.509,
-          "end": 4.002
+          "start": 2.42,
+          "end": 2.86
         }
       ]
     },
     {
       "id": "cap002",
-      "start": 4.002,
-      "end": 6.059,
+      "start": 4.77,
+      "end": 6.17,
       "words": [
         {
           "text": "It",
-          "start": 4.002,
-          "end": 4.249
+          "start": 4.77,
+          "end": 5.05
         },
         {
           "text": "was",
-          "start": 4.249,
-          "end": 4.578
+          "start": 5.05,
+          "end": 5.23
         },
         {
           "text": "full",
-          "start": 4.578,
-          "end": 4.99
+          "start": 5.23,
+          "end": 5.47
         },
         {
           "text": "of",
-          "start": 4.99,
-          "end": 5.237
+          "start": 5.47,
+          "end": 5.69
         },
         {
           "text": "beautiful",
-          "start": 5.237,
-          "end": 6.059
+          "start": 5.69,
+          "end": 6.17
         }
       ]
     },
     {
       "id": "cap003",
-      "start": 6.059,
-      "end": 8.775,
+      "start": 6.17,
+      "end": 8.77,
       "words": [
         {
           "text": "silk",
-          "start": 6.059,
-          "end": 6.471
+          "start": 6.17,
+          "end": 6.59
         },
         {
           "text": "dresses,",
-          "start": 6.471,
-          "end": 7.211
+          "start": 6.59,
+          "end": 6.97
         },
         {
           "text": "sparkly",
-          "start": 7.211,
-          "end": 7.87
+          "start": 7.57,
+          "end": 7.93
         },
         {
           "text": "shoes,",
-          "start": 7.87,
-          "end": 8.445
+          "start": 7.93,
+          "end": 8.17
         },
         {
           "text": "and",
-          "start": 8.445,
-          "end": 8.775
+          "start": 8.63,
+          "end": 8.77
         }
       ]
     },
     {
       "id": "cap004",
-      "start": 8.775,
-      "end": 10.914,
+      "start": 8.77,
+      "end": 10.11,
       "words": [
         {
           "text": "ribbons",
-          "start": 8.775,
-          "end": 9.433
+          "start": 8.77,
+          "end": 9.17
         },
         {
           "text": "in",
-          "start": 9.433,
-          "end": 9.68
+          "start": 9.17,
+          "end": 9.31
         },
         {
           "text": "every",
-          "start": 9.68,
-          "end": 10.173
+          "start": 9.31,
+          "end": 9.59
         },
         {
           "text": "color",
-          "start": 10.173,
-          "end": 10.667
+          "start": 9.59,
+          "end": 9.91
         },
         {
           "text": "of",
-          "start": 10.667,
-          "end": 10.914
+          "start": 9.91,
+          "end": 10.11
         }
       ]
     },
     {
       "id": "cap005",
-      "start": 10.914,
-      "end": 11.983,
+      "start": 10.11,
+      "end": 10.51,
       "words": [
         {
           "text": "the",
-          "start": 10.914,
-          "end": 11.243
+          "start": 10.11,
+          "end": 10.19
         },
         {
           "text": "rainbow.",
-          "start": 11.243,
-          "end": 11.983
+          "start": 10.19,
+          "end": 10.51
         }
       ]
     },
     {
       "id": "cap006",
-      "start": 11.983,
-      "end": 14.04,
+      "start": 12.72,
+      "end": 14.1,
       "words": [
         {
           "text": "There",
-          "start": 11.983,
-          "end": 12.477
+          "start": 12.72,
+          "end": 13.08
         },
         {
           "text": "was",
-          "start": 12.477,
-          "end": 12.806
+          "start": 13.08,
+          "end": 13.24
         },
         {
           "text": "just",
-          "start": 12.806,
-          "end": 13.218
+          "start": 13.24,
+          "end": 13.48
         },
         {
           "text": "one",
-          "start": 13.218,
-          "end": 13.547
+          "start": 13.48,
+          "end": 13.78
         },
         {
           "text": "small",
-          "start": 13.547,
-          "end": 14.04
+          "start": 13.78,
+          "end": 14.1
         }
       ]
     },
     {
       "id": "cap007",
-      "start": 14.04,
-      "end": 15.686,
+      "start": 14.1,
+      "end": 15.54,
       "words": [
         {
           "text": "problem",
-          "start": 14.04,
-          "end": 14.699
+          "start": 14.1,
+          "end": 14.62
         },
         {
           "text": "\u2014",
-          "start": 14.699,
-          "end": 14.863
+          "start": 14.62,
+          "end": 15.14
         },
         {
           "text": "it",
-          "start": 14.863,
-          "end": 15.11
+          "start": 15.14,
+          "end": 15.26
         },
         {
           "text": "was",
-          "start": 15.11,
-          "end": 15.439
+          "start": 15.26,
+          "end": 15.4
         },
         {
           "text": "an",
-          "start": 15.439,
-          "end": 15.686
+          "start": 15.4,
+          "end": 15.54
         }
       ]
     },
     {
       "id": "cap008",
-      "start": 15.686,
-      "end": 16.92,
+      "start": 15.54,
+      "end": 16.54,
       "words": [
         {
           "text": "absolute",
-          "start": 15.686,
-          "end": 16.426
+          "start": 15.54,
+          "end": 16.06
         },
         {
           "text": "mess.",
-          "start": 16.426,
-          "end": 16.92
+          "start": 16.06,
+          "end": 16.54
         }
       ]
     },
     {
       "id": "cap009",
       "start": 16.92,
-      "end": 18.712,
+      "end": 18.16,
       "words": [
         {
           "text": "Today",
           "start": 16.92,
-          "end": 17.334
+          "end": 17.16
         },
         {
           "text": "the",
-          "start": 17.334,
-          "end": 17.609
+          "start": 17.16,
+          "end": 17.38
         },
         {
           "text": "royal",
-          "start": 17.609,
-          "end": 18.023
+          "start": 17.38,
+          "end": 17.66
         },
         {
           "text": "tea",
-          "start": 18.023,
-          "end": 18.299
+          "start": 17.66,
+          "end": 17.96
         },
         {
           "text": "party",
-          "start": 18.299,
-          "end": 18.712
+          "start": 17.96,
+          "end": 18.16
         }
       ]
     },
     {
       "id": "cap010",
-      "start": 18.712,
-      "end": 20.435,
+      "start": 18.16,
+      "end": 20.18,
       "words": [
         {
           "text": "started",
-          "start": 18.712,
-          "end": 19.264
+          "start": 18.16,
+          "end": 18.64
         },
         {
           "text": "in",
-          "start": 19.264,
-          "end": 19.47
+          "start": 18.64,
+          "end": 18.88
         },
         {
           "text": "one",
-          "start": 19.47,
-          "end": 19.746
+          "start": 18.88,
+          "end": 19.1
         },
         {
           "text": "hour,",
-          "start": 19.746,
-          "end": 20.16
+          "start": 19.1,
+          "end": 19.56
         },
         {
           "text": "and",
-          "start": 20.16,
-          "end": 20.435
+          "start": 20.06,
+          "end": 20.18
         }
       ]
     },
     {
       "id": "cap011",
-      "start": 20.435,
-      "end": 22.09,
+      "start": 20.18,
+      "end": 21.44,
       "words": [
         {
           "text": "Lyra",
-          "start": 20.435,
-          "end": 20.78
+          "start": 20.18,
+          "end": 20.48
         },
         {
           "text": "wanted",
-          "start": 20.78,
-          "end": 21.263
+          "start": 20.48,
+          "end": 20.88
         },
         {
           "text": "to",
-          "start": 21.263,
-          "end": 21.469
+          "start": 20.88,
+          "end": 21.12
         },
         {
           "text": "wear",
-          "start": 21.469,
-          "end": 21.814
+          "start": 21.12,
+          "end": 21.24
         },
         {
           "text": "her",
-          "start": 21.814,
-          "end": 22.09
+          "start": 21.24,
+          "end": 21.44
         }
       ]
     },
     {
       "id": "cap012",
-      "start": 22.09,
-      "end": 24.158,
+      "start": 21.44,
+      "end": 23.78,
       "words": [
         {
           "text": "favorite",
-          "start": 22.09,
-          "end": 22.71
+          "start": 21.44,
+          "end": 21.96
         },
         {
           "text": "dress",
-          "start": 22.71,
-          "end": 23.124
+          "start": 21.96,
+          "end": 22.28
         },
         {
           "text": "\u2014",
-          "start": 23.124,
-          "end": 23.261
+          "start": 22.28,
+          "end": 23.18
         },
         {
           "text": "the",
-          "start": 23.261,
-          "end": 23.537
+          "start": 23.18,
+          "end": 23.44
         },
         {
           "text": "sunshine",
-          "start": 23.537,
-          "end": 24.158
+          "start": 23.44,
+          "end": 23.78
         }
       ]
     },
     {
       "id": "cap013",
-      "start": 24.158,
-      "end": 26.088,
+      "start": 23.78,
+      "end": 25.84,
       "words": [
         {
           "text": "yellow",
-          "start": 24.158,
-          "end": 24.64
+          "start": 23.78,
+          "end": 24.22
         },
         {
           "text": "one,",
-          "start": 24.64,
-          "end": 24.985
+          "start": 24.22,
+          "end": 24.62
         },
         {
           "text": "with",
-          "start": 24.985,
-          "end": 25.329
+          "start": 25.22,
+          "end": 25.38
         },
         {
           "text": "the",
-          "start": 25.329,
-          "end": 25.605
+          "start": 25.38,
+          "end": 25.52
         },
         {
           "text": "twirly",
-          "start": 25.605,
-          "end": 26.088
+          "start": 25.52,
+          "end": 25.84
         }
       ]
     },
     {
       "id": "cap014",
-      "start": 26.088,
-      "end": 26.57,
+      "start": 25.84,
+      "end": 26.1,
       "words": [
         {
           "text": "skirt.",
-          "start": 26.088,
-          "end": 26.57
+          "start": 25.84,
+          "end": 26.1
         }
       ]
     },
     {
       "id": "cap015",
       "start": 26.57,
-      "end": 28.659,
+      "end": 28.47,
       "words": [
         {
           "text": "It's",
           "start": 26.57,
-          "end": 26.974
+          "end": 26.87
         },
         {
           "text": "in",
-          "start": 26.974,
-          "end": 27.177
+          "start": 26.87,
+          "end": 26.95
         },
         {
           "text": "here",
-          "start": 27.177,
-          "end": 27.514
+          "start": 26.95,
+          "end": 27.13
         },
         {
           "text": "somewhere,",
-          "start": 27.514,
-          "end": 28.322
+          "start": 27.13,
+          "end": 27.57
         },
         {
           "text": "Lyra",
-          "start": 28.322,
-          "end": 28.659
+          "start": 28.07,
+          "end": 28.47
         }
       ]
     },
     {
       "id": "cap016",
-      "start": 28.659,
-      "end": 31.086,
+      "start": 28.47,
+      "end": 30.97,
       "words": [
         {
           "text": "said",
-          "start": 28.659,
-          "end": 28.996
+          "start": 28.47,
+          "end": 28.79
         },
         {
           "text": "confidently,",
-          "start": 28.996,
-          "end": 29.872
+          "start": 28.79,
+          "end": 29.65
         },
         {
           "text": "marching",
-          "start": 29.872,
-          "end": 30.479
+          "start": 30.09,
+          "end": 30.37
         },
         {
           "text": "into",
-          "start": 30.479,
-          "end": 30.816
+          "start": 30.37,
+          "end": 30.75
         },
         {
           "text": "her",
-          "start": 30.816,
-          "end": 31.086
+          "start": 30.75,
+          "end": 30.97
         }
       ]
     },
     {
       "id": "cap017",
-      "start": 31.086,
-      "end": 31.49,
+      "start": 30.97,
+      "end": 31.25,
       "words": [
         {
           "text": "room.",
-          "start": 31.086,
-          "end": 31.49
+          "start": 30.97,
+          "end": 31.25
         }
       ]
     },
     {
       "id": "cap018",
       "start": 31.49,
-      "end": 33.558,
+      "end": 33.07,
       "words": [
         {
           "text": "Twenty",
           "start": 31.49,
-          "end": 31.973
+          "end": 31.69
         },
         {
           "text": "minutes",
-          "start": 31.973,
-          "end": 32.524
+          "start": 31.69,
+          "end": 31.95
         },
         {
           "text": "later,",
-          "start": 32.524,
-          "end": 33.007
+          "start": 31.95,
+          "end": 32.39
         },
         {
           "text": "she",
-          "start": 33.007,
-          "end": 33.282
+          "start": 32.75,
+          "end": 32.87
         },
         {
           "text": "was",
-          "start": 33.282,
-          "end": 33.558
+          "start": 32.87,
+          "end": 33.07
         }
       ]
     },
     {
       "id": "cap019",
-      "start": 33.558,
-      "end": 34.937,
+      "start": 33.07,
+      "end": 34.05,
       "words": [
         {
           "text": "buried",
-          "start": 33.558,
-          "end": 34.041
+          "start": 33.07,
+          "end": 33.35
         },
         {
           "text": "in",
-          "start": 34.041,
-          "end": 34.248
+          "start": 33.35,
+          "end": 33.53
         },
         {
           "text": "a",
-          "start": 34.248,
-          "end": 34.385
+          "start": 33.53,
+          "end": 33.61
         },
         {
           "text": "pile",
-          "start": 34.385,
-          "end": 34.73
+          "start": 33.61,
+          "end": 33.87
         },
         {
           "text": "of",
-          "start": 34.73,
-          "end": 34.937
+          "start": 33.87,
+          "end": 34.05
         }
       ]
     },
     {
       "id": "cap020",
-      "start": 34.937,
-      "end": 36.729,
+      "start": 34.05,
+      "end": 36.15,
       "words": [
         {
           "text": "dresses,",
-          "start": 34.937,
-          "end": 35.557
+          "start": 34.05,
+          "end": 34.35
         },
         {
           "text": "one",
-          "start": 35.557,
-          "end": 35.833
+          "start": 34.99,
+          "end": 35.13
         },
         {
           "text": "shoe",
-          "start": 35.833,
-          "end": 36.178
+          "start": 35.13,
+          "end": 35.39
         },
         {
           "text": "on,",
-          "start": 36.178,
-          "end": 36.454
+          "start": 35.39,
+          "end": 35.65
         },
         {
           "text": "one",
-          "start": 36.454,
-          "end": 36.729
+          "start": 35.93,
+          "end": 36.15
         }
       ]
     },
     {
       "id": "cap021",
-      "start": 36.729,
-      "end": 37.695,
+      "start": 36.15,
+      "end": 36.75,
       "words": [
         {
           "text": "shoe",
-          "start": 36.729,
-          "end": 37.074
+          "start": 36.15,
+          "end": 36.43
         },
         {
           "text": "missing.",
-          "start": 37.074,
-          "end": 37.695
+          "start": 36.43,
+          "end": 36.75
         }
       ]
     },
     {
       "id": "cap022",
-      "start": 37.695,
-      "end": 38.177,
+      "start": 37.37,
+      "end": 37.89,
       "words": [
         {
           "text": "Aha!",
-          "start": 37.695,
-          "end": 38.177
+          "start": 37.37,
+          "end": 37.89
         }
       ]
     },
     {
       "id": "cap023",
-      "start": 38.177,
-      "end": 40.039,
+      "start": 38.75,
+      "end": 40.27,
       "words": [
         {
           "text": "she",
-          "start": 38.177,
-          "end": 38.453
+          "start": 38.75,
+          "end": 38.97
         },
         {
           "text": "said,",
-          "start": 38.453,
-          "end": 38.867
+          "start": 38.97,
+          "end": 39.25
         },
         {
           "text": "pulling",
-          "start": 38.867,
-          "end": 39.418
+          "start": 39.59,
+          "end": 39.83
         },
         {
           "text": "a",
-          "start": 39.418,
-          "end": 39.556
+          "start": 39.83,
+          "end": 40.01
         },
         {
           "text": "yellow",
-          "start": 39.556,
-          "end": 40.039
+          "start": 40.01,
+          "end": 40.27
         }
       ]
     },
     {
       "id": "cap024",
-      "start": 40.039,
-      "end": 41.9,
+      "start": 40.27,
+      "end": 41.59,
       "words": [
         {
           "text": "fabric",
-          "start": 40.039,
-          "end": 40.521
+          "start": 40.27,
+          "end": 40.71
         },
         {
           "text": "from",
-          "start": 40.521,
-          "end": 40.866
+          "start": 40.71,
+          "end": 40.99
         },
         {
           "text": "under",
-          "start": 40.866,
-          "end": 41.28
+          "start": 40.99,
+          "end": 41.23
         },
         {
           "text": "the",
-          "start": 41.28,
-          "end": 41.555
+          "start": 41.23,
+          "end": 41.39
         },
         {
           "text": "bed.",
-          "start": 41.555,
-          "end": 41.9
+          "start": 41.39,
+          "end": 41.59
         }
       ]
     },
     {
       "id": "cap025",
       "start": 41.9,
-      "end": 43.9,
+      "end": 43.42,
       "words": [
         {
           "text": "It",
           "start": 41.9,
-          "end": 42.114
+          "end": 42.06
         },
         {
           "text": "was",
-          "start": 42.114,
-          "end": 42.4
+          "start": 42.06,
+          "end": 42.22
         },
         {
           "text": "a",
-          "start": 42.4,
-          "end": 42.543
+          "start": 42.22,
+          "end": 42.34
         },
         {
           "text": "yellow",
-          "start": 42.543,
-          "end": 43.043
+          "start": 42.34,
+          "end": 42.66
         },
         {
           "text": "pillowcase.",
-          "start": 43.043,
-          "end": 43.9
+          "start": 42.66,
+          "end": 43.42
         }
       ]
     },
     {
       "id": "cap026",
       "start": 43.9,
-      "end": 46.231,
+      "end": 46.66,
       "words": [
         {
           "text": "Not",
           "start": 43.9,
-          "end": 44.233
+          "end": 44.12
         },
         {
           "text": "quite,",
-          "start": 44.233,
-          "end": 44.766
+          "start": 44.12,
+          "end": 44.54
         },
         {
           "text": "Lyra",
-          "start": 44.766,
-          "end": 45.099
+          "start": 44.54,
+          "end": 45.194
         },
         {
           "text": "sighed,",
-          "start": 45.099,
-          "end": 45.631
+          "start": 45.194,
+          "end": 46.24
         },
         {
           "text": "flopping",
-          "start": 45.631,
-          "end": 46.231
+          "start": 46.24,
+          "end": 46.66
         }
       ]
     },
     {
       "id": "cap027",
-      "start": 46.231,
-      "end": 47.829,
+      "start": 46.66,
+      "end": 48.12,
       "words": [
         {
           "text": "backward",
-          "start": 46.231,
-          "end": 46.83
+          "start": 46.66,
+          "end": 47.16
         },
         {
           "text": "onto",
-          "start": 46.83,
-          "end": 47.163
+          "start": 47.16,
+          "end": 47.48
         },
         {
           "text": "a",
-          "start": 47.163,
-          "end": 47.296
+          "start": 47.48,
+          "end": 47.66
         },
         {
           "text": "pile",
-          "start": 47.296,
-          "end": 47.629
+          "start": 47.66,
+          "end": 47.88
         },
         {
           "text": "of",
-          "start": 47.629,
-          "end": 47.829
+          "start": 47.88,
+          "end": 48.12
         }
       ]
     },
     {
       "id": "cap028",
-      "start": 47.829,
-      "end": 49.96,
+      "start": 48.12,
+      "end": 49.8,
       "words": [
         {
           "text": "petticoats",
-          "start": 47.829,
-          "end": 48.562
+          "start": 48.12,
+          "end": 48.6
         },
         {
           "text": "with",
-          "start": 48.562,
-          "end": 48.895
+          "start": 48.6,
+          "end": 48.84
         },
         {
           "text": "a",
-          "start": 48.895,
-          "end": 49.028
+          "start": 48.84,
+          "end": 48.98
         },
         {
           "text": "small",
-          "start": 49.028,
-          "end": 49.427
+          "start": 48.98,
+          "end": 49.26
         },
         {
           "text": "poof.",
-          "start": 49.427,
-          "end": 49.96
+          "start": 49.26,
+          "end": 49.8
         }
       ]
     },
     {
       "id": "cap029",
       "start": 49.96,
-      "end": 51.854,
+      "end": 51.5,
       "words": [
         {
           "text": "Just",
           "start": 49.96,
-          "end": 50.287
+          "end": 50.24
         },
         {
           "text": "then,",
-          "start": 50.287,
-          "end": 50.678
+          "start": 50.24,
+          "end": 50.6
         },
         {
           "text": "her",
-          "start": 50.678,
-          "end": 50.94
+          "start": 50.78,
+          "end": 50.88
         },
         {
           "text": "little",
-          "start": 50.94,
-          "end": 51.397
+          "start": 50.88,
+          "end": 51.12
         },
         {
           "text": "palace",
-          "start": 51.397,
-          "end": 51.854
+          "start": 51.12,
+          "end": 51.5
         }
       ]
     },
     {
       "id": "cap030",
-      "start": 51.854,
-      "end": 54.009,
+      "start": 51.5,
+      "end": 53.92,
       "words": [
         {
           "text": "mouse",
-          "start": 51.854,
-          "end": 52.246
+          "start": 51.5,
+          "end": 51.84
         },
         {
           "text": "friend,",
-          "start": 52.246,
-          "end": 52.768
+          "start": 51.84,
+          "end": 52.32
         },
         {
           "text": "Nibbles,",
-          "start": 52.768,
-          "end": 53.356
+          "start": 52.76,
+          "end": 53.16
         },
         {
           "text": "poked",
-          "start": 53.356,
-          "end": 53.748
+          "start": 53.16,
+          "end": 53.68
         },
         {
           "text": "his",
-          "start": 53.748,
-          "end": 54.009
+          "start": 53.68,
+          "end": 53.92
         }
       ]
     },
     {
       "id": "cap031",
-      "start": 54.009,
-      "end": 55.315,
+      "start": 53.92,
+      "end": 54.96,
       "words": [
         {
           "text": "head",
-          "start": 54.009,
-          "end": 54.336
+          "start": 53.92,
+          "end": 54.16
         },
         {
           "text": "out",
-          "start": 54.336,
-          "end": 54.597
+          "start": 54.16,
+          "end": 54.36
         },
         {
           "text": "of",
-          "start": 54.597,
-          "end": 54.793
+          "start": 54.36,
+          "end": 54.46
         },
         {
           "text": "a",
-          "start": 54.793,
-          "end": 54.923
+          "start": 54.46,
+          "end": 54.6
         },
         {
           "text": "fuzzy",
-          "start": 54.923,
-          "end": 55.315
+          "start": 54.6,
+          "end": 54.96
         }
       ]
     },
     {
       "id": "cap032",
-      "start": 55.315,
-      "end": 57.34,
+      "start": 54.96,
+      "end": 57.42,
       "words": [
         {
           "text": "slipper,",
-          "start": 55.315,
-          "end": 55.903
+          "start": 54.96,
+          "end": 55.46
         },
         {
           "text": "one",
-          "start": 55.903,
-          "end": 56.164
+          "start": 56.12,
+          "end": 56.32
         },
         {
           "text": "of",
-          "start": 56.164,
-          "end": 56.36
+          "start": 56.32,
+          "end": 56.5
         },
         {
           "text": "Lyra's",
-          "start": 56.36,
-          "end": 56.817
+          "start": 56.5,
+          "end": 57.0
         },
         {
           "text": "ribbons",
-          "start": 56.817,
-          "end": 57.34
+          "start": 57.0,
+          "end": 57.42
         }
       ]
     },
     {
       "id": "cap033",
-      "start": 57.34,
-      "end": 58.842,
+      "start": 57.42,
+      "end": 58.54,
       "words": [
         {
           "text": "tied",
-          "start": 57.34,
-          "end": 57.666
+          "start": 57.42,
+          "end": 57.66
         },
         {
           "text": "around",
-          "start": 57.666,
-          "end": 58.123
+          "start": 57.66,
+          "end": 57.94
         },
         {
           "text": "him",
-          "start": 58.123,
-          "end": 58.384
+          "start": 57.94,
+          "end": 58.2
         },
         {
           "text": "like",
-          "start": 58.384,
-          "end": 58.711
+          "start": 58.2,
+          "end": 58.38
         },
         {
           "text": "a",
-          "start": 58.711,
-          "end": 58.842
+          "start": 58.38,
+          "end": 58.54
         }
       ]
     },
     {
       "id": "cap034",
-      "start": 58.842,
-      "end": 59.56,
+      "start": 58.54,
+      "end": 59.22,
       "words": [
         {
           "text": "tiny",
-          "start": 58.842,
-          "end": 59.168
+          "start": 58.54,
+          "end": 58.88
         },
         {
           "text": "cape.",
-          "start": 59.168,
-          "end": 59.56
+          "start": 58.88,
+          "end": 59.22
         }
       ]
     },
     {
       "id": "cap035",
       "start": 59.56,
-      "end": 60.649,
+      "end": 60.02,
       "words": [
         {
           "text": "Nibbles!",
           "start": 59.56,
-          "end": 60.649
+          "end": 60.02
         }
       ]
     },
     {
       "id": "cap036",
-      "start": 60.649,
-      "end": 63.155,
+      "start": 62.13,
+      "end": 63.53,
       "words": [
         {
           "text": "Why",
-          "start": 60.649,
-          "end": 61.085
+          "start": 62.13,
+          "end": 62.79
         },
         {
           "text": "are",
-          "start": 61.085,
-          "end": 61.521
+          "start": 62.79,
+          "end": 62.97
         },
         {
           "text": "you",
-          "start": 61.521,
-          "end": 61.956
+          "start": 62.97,
+          "end": 63.13
         },
         {
           "text": "wearing",
-          "start": 61.956,
-          "end": 62.828
+          "start": 63.13,
+          "end": 63.35
         },
         {
           "text": "my",
-          "start": 62.828,
-          "end": 63.155
+          "start": 63.35,
+          "end": 63.53
         }
       ]
     },
     {
       "id": "cap037",
-      "start": 63.155,
-      "end": 64.135,
+      "start": 63.53,
+      "end": 63.81,
       "words": [
         {
           "text": "ribbon?",
-          "start": 63.155,
-          "end": 64.135
+          "start": 63.53,
+          "end": 63.81
         }
       ]
     },
     {
       "id": "cap038",
-      "start": 64.135,
-      "end": 68.056,
+      "start": 66.28,
+      "end": 68.3,
       "words": [
         {
           "text": "Nibbles",
-          "start": 64.135,
-          "end": 65.006
+          "start": 66.28,
+          "end": 66.68
         },
         {
           "text": "squeaked",
-          "start": 65.006,
-          "end": 65.987
+          "start": 66.68,
+          "end": 67.16
         },
         {
           "text": "proudly",
-          "start": 65.987,
-          "end": 66.858
+          "start": 67.16,
+          "end": 67.6
         },
         {
           "text": "and",
-          "start": 66.858,
-          "end": 67.294
+          "start": 67.6,
+          "end": 68.02
         },
         {
           "text": "struck",
-          "start": 67.294,
-          "end": 68.056
+          "start": 68.02,
+          "end": 68.3
         }
       ]
     },
     {
       "id": "cap039",
-      "start": 68.056,
-      "end": 69.69,
+      "start": 68.3,
+      "end": 69.2,
       "words": [
         {
           "text": "a",
-          "start": 68.056,
-          "end": 68.274
+          "start": 68.3,
+          "end": 68.48
         },
         {
           "text": "heroic",
-          "start": 68.274,
-          "end": 69.036
+          "start": 68.48,
+          "end": 68.76
         },
         {
           "text": "pose.",
-          "start": 69.036,
-          "end": 69.69
+          "start": 68.76,
+          "end": 69.2
         }
       ]
     },
     {
       "id": "cap040",
       "start": 69.69,
-      "end": 70.9,
+      "end": 70.75,
       "words": [
         {
           "text": "Lyra",
           "start": 69.69,
-          "end": 70.122
+          "end": 70.11
         },
         {
           "text": "giggled.",
-          "start": 70.122,
-          "end": 70.9
+          "start": 70.11,
+          "end": 70.75
         }
       ]
     },
     {
       "id": "cap041",
-      "start": 70.9,
-      "end": 72.8,
+      "start": 71.53,
+      "end": 73.03,
       "words": [
         {
           "text": "Okay,",
-          "start": 70.9,
-          "end": 71.504
+          "start": 71.53,
+          "end": 72.17
         },
         {
           "text": "Super",
-          "start": 71.504,
-          "end": 72.023
+          "start": 72.37,
+          "end": 72.57
         },
         {
           "text": "Nibbles.",
-          "start": 72.023,
-          "end": 72.8
+          "start": 72.57,
+          "end": 73.03
         }
       ]
     },
     {
       "id": "cap042",
-      "start": 72.8,
-      "end": 75.306,
+      "start": 74.21,
+      "end": 75.75,
       "words": [
         {
           "text": "Even",
-          "start": 72.8,
-          "end": 73.232
+          "start": 74.21,
+          "end": 74.71
         },
         {
           "text": "you",
-          "start": 73.232,
-          "end": 73.578
+          "start": 74.71,
+          "end": 74.87
         },
         {
           "text": "look",
-          "start": 73.578,
-          "end": 74.01
+          "start": 74.87,
+          "end": 75.01
         },
         {
           "text": "more",
-          "start": 74.01,
-          "end": 74.442
+          "start": 75.01,
+          "end": 75.25
         },
         {
           "text": "organized",
-          "start": 74.442,
-          "end": 75.306
+          "start": 75.25,
+          "end": 75.75
         }
       ]
     },
     {
       "id": "cap043",
-      "start": 75.306,
-      "end": 76.774,
+      "start": 75.75,
+      "end": 76.61,
       "words": [
         {
           "text": "than",
-          "start": 75.306,
-          "end": 75.738
+          "start": 75.75,
+          "end": 76.09
         },
         {
           "text": "this",
-          "start": 75.738,
-          "end": 76.17
+          "start": 76.09,
+          "end": 76.35
         },
         {
           "text": "room.",
-          "start": 76.17,
-          "end": 76.774
+          "start": 76.35,
+          "end": 76.61
         }
       ]
     },
     {
       "id": "cap044",
-      "start": 76.774,
-      "end": 78.589,
+      "start": 77.75,
+      "end": 78.93,
       "words": [
         {
           "text": "She",
-          "start": 76.774,
-          "end": 77.12
+          "start": 77.75,
+          "end": 78.05
         },
         {
           "text": "put",
-          "start": 77.12,
-          "end": 77.465
+          "start": 78.05,
+          "end": 78.23
         },
         {
           "text": "her",
-          "start": 77.465,
-          "end": 77.811
+          "start": 78.23,
+          "end": 78.45
         },
         {
           "text": "hands",
-          "start": 77.811,
-          "end": 78.329
+          "start": 78.45,
+          "end": 78.69
         },
         {
           "text": "on",
-          "start": 78.329,
-          "end": 78.589
+          "start": 78.69,
+          "end": 78.93
         }
       ]
     },
     {
       "id": "cap045",
-      "start": 78.589,
-      "end": 79.452,
+      "start": 78.93,
+      "end": 79.51,
       "words": [
         {
           "text": "her",
-          "start": 78.589,
-          "end": 78.934
+          "start": 78.93,
+          "end": 79.13
         },
         {
           "text": "hips.",
-          "start": 78.934,
-          "end": 79.452
+          "start": 79.13,
+          "end": 79.51
         }
       ]
     },
     {
       "id": "cap046",
-      "start": 79.452,
-      "end": 81.353,
+      "start": 80.55,
+      "end": 82.55,
       "words": [
         {
           "text": "Alright",
-          "start": 79.452,
-          "end": 80.23
+          "start": 80.55,
+          "end": 81.19
         },
         {
           "text": "\u2014",
-          "start": 80.23,
-          "end": 80.403
+          "start": 81.19,
+          "end": 81.79
         },
         {
           "text": "if",
-          "start": 80.403,
-          "end": 80.662
+          "start": 81.79,
+          "end": 82.07
         },
         {
           "text": "I",
-          "start": 80.662,
-          "end": 80.835
+          "start": 82.07,
+          "end": 82.17
         },
         {
           "text": "don't",
-          "start": 80.835,
-          "end": 81.353
+          "start": 82.17,
+          "end": 82.55
         }
       ]
     },
     {
       "id": "cap047",
-      "start": 81.353,
-      "end": 83.599,
+      "start": 82.55,
+      "end": 83.81,
       "words": [
         {
           "text": "clean",
-          "start": 81.353,
-          "end": 81.871
+          "start": 82.55,
+          "end": 82.75
         },
         {
           "text": "this",
-          "start": 81.871,
-          "end": 82.303
+          "start": 82.75,
+          "end": 82.99
         },
         {
           "text": "up,",
-          "start": 82.303,
-          "end": 82.649
+          "start": 82.99,
+          "end": 83.23
         },
         {
           "text": "I'll",
-          "start": 82.649,
-          "end": 83.081
+          "start": 83.57,
+          "end": 83.65
         },
         {
           "text": "never",
-          "start": 83.081,
-          "end": 83.599
+          "start": 83.65,
+          "end": 83.81
         }
       ]
     },
     {
       "id": "cap048",
-      "start": 83.599,
-      "end": 85.5,
+      "start": 83.81,
+      "end": 84.99,
       "words": [
         {
           "text": "find",
-          "start": 83.599,
-          "end": 84.031
+          "start": 83.81,
+          "end": 84.17
         },
         {
           "text": "anything",
-          "start": 84.031,
-          "end": 84.809
+          "start": 84.17,
+          "end": 84.63
         },
         {
           "text": "again!",
-          "start": 84.809,
-          "end": 85.5
+          "start": 84.63,
+          "end": 84.99
         }
       ]
     },
     {
       "id": "cap049",
       "start": 85.5,
-      "end": 86.985,
+      "end": 86.44,
       "words": [
         {
           "text": "She",
           "start": 85.5,
-          "end": 85.758
+          "end": 85.66
         },
         {
           "text": "wound",
-          "start": 85.758,
-          "end": 86.146
+          "start": 85.66,
+          "end": 85.86
         },
         {
           "text": "up",
-          "start": 86.146,
-          "end": 86.339
+          "start": 85.86,
+          "end": 86.1
         },
         {
           "text": "her",
-          "start": 86.339,
-          "end": 86.597
+          "start": 86.1,
+          "end": 86.22
         },
         {
           "text": "music",
-          "start": 86.597,
-          "end": 86.985
+          "start": 86.22,
+          "end": 86.44
         }
       ]
     },
     {
       "id": "cap050",
-      "start": 86.985,
-      "end": 88.921,
+      "start": 86.44,
+      "end": 88.32,
       "words": [
         {
           "text": "box,",
-          "start": 86.985,
-          "end": 87.307
+          "start": 86.44,
+          "end": 86.7
         },
         {
           "text": "and",
-          "start": 87.307,
-          "end": 87.566
+          "start": 86.7,
+          "end": 87.12
         },
         {
           "text": "cheerful",
-          "start": 87.566,
-          "end": 88.147
+          "start": 87.12,
+          "end": 87.5
         },
         {
           "text": "music",
-          "start": 88.147,
-          "end": 88.534
+          "start": 87.5,
+          "end": 87.92
         },
         {
           "text": "began",
-          "start": 88.534,
-          "end": 88.921
+          "start": 87.92,
+          "end": 88.32
         }
       ]
     },
     {
       "id": "cap051",
-      "start": 88.921,
-      "end": 89.502,
+      "start": 88.32,
+      "end": 88.86,
       "words": [
         {
           "text": "to",
-          "start": 88.921,
-          "end": 89.115
+          "start": 88.32,
+          "end": 88.56
         },
         {
           "text": "play.",
-          "start": 89.115,
-          "end": 89.502
+          "start": 88.56,
+          "end": 88.86
         }
       ]
     },
     {
       "id": "cap052",
-      "start": 89.502,
-      "end": 91.181,
+      "start": 89.32,
+      "end": 90.98,
       "words": [
         {
           "text": "Lyra",
-          "start": 89.502,
-          "end": 89.825
+          "start": 89.32,
+          "end": 89.6
         },
         {
           "text": "danced",
-          "start": 89.825,
-          "end": 90.277
+          "start": 89.6,
+          "end": 89.98
         },
         {
           "text": "as",
-          "start": 90.277,
-          "end": 90.47
+          "start": 89.98,
+          "end": 90.24
         },
         {
           "text": "she",
-          "start": 90.47,
-          "end": 90.729
+          "start": 90.24,
+          "end": 90.44
         },
         {
           "text": "tidied",
-          "start": 90.729,
-          "end": 91.181
+          "start": 90.44,
+          "end": 90.98
         }
       ]
     },
     {
       "id": "cap053",
-      "start": 91.181,
-      "end": 92.988,
+      "start": 90.98,
+      "end": 92.9,
       "words": [
         {
           "text": "\u2014",
-          "start": 91.181,
-          "end": 91.31
+          "start": 90.98,
+          "end": 91.46
         },
         {
           "text": "sorting",
-          "start": 91.31,
-          "end": 91.826
+          "start": 91.46,
+          "end": 91.68
         },
         {
           "text": "dresses",
-          "start": 91.826,
-          "end": 92.342
+          "start": 91.68,
+          "end": 92.04
         },
         {
           "text": "by",
-          "start": 92.342,
-          "end": 92.536
+          "start": 92.04,
+          "end": 92.46
         },
         {
           "text": "color,",
-          "start": 92.536,
-          "end": 92.988
+          "start": 92.46,
+          "end": 92.9
         }
       ]
     },
     {
       "id": "cap054",
-      "start": 92.988,
-      "end": 95.118,
+      "start": 92.9,
+      "end": 94.84,
       "words": [
         {
           "text": "twirling",
-          "start": 92.988,
-          "end": 93.569
+          "start": 92.9,
+          "end": 93.46
         },
         {
           "text": "each",
-          "start": 93.569,
-          "end": 93.892
+          "start": 93.46,
+          "end": 93.84
         },
         {
           "text": "one",
-          "start": 93.892,
-          "end": 94.15
+          "start": 93.84,
+          "end": 94.06
         },
         {
           "text": "before",
-          "start": 94.15,
-          "end": 94.602
+          "start": 94.06,
+          "end": 94.44
         },
         {
           "text": "hanging",
-          "start": 94.602,
-          "end": 95.118
+          "start": 94.44,
+          "end": 94.84
         }
       ]
     },
     {
       "id": "cap055",
-      "start": 95.118,
-      "end": 95.57,
+      "start": 94.84,
+      "end": 95.3,
       "words": [
         {
           "text": "it",
-          "start": 95.118,
-          "end": 95.312
+          "start": 94.84,
+          "end": 95.08
         },
         {
           "text": "up.",
-          "start": 95.312,
-          "end": 95.57
+          "start": 95.08,
+          "end": 95.3
         }
       ]
     },
     {
       "id": "cap056",
       "start": 95.57,
-      "end": 97.779,
+      "end": 96.93,
       "words": [
         {
           "text": "A",
           "start": 95.57,
-          "end": 95.754
+          "end": 95.71
         },
         {
           "text": "scarf",
-          "start": 95.754,
-          "end": 96.306
+          "start": 95.71,
+          "end": 96.01
         },
         {
           "text": "landed",
-          "start": 96.306,
-          "end": 96.95
+          "start": 96.01,
+          "end": 96.43
         },
         {
           "text": "right",
-          "start": 96.95,
-          "end": 97.502
+          "start": 96.43,
+          "end": 96.69
         },
         {
           "text": "on",
-          "start": 97.502,
-          "end": 97.779
+          "start": 96.69,
+          "end": 96.93
         }
       ]
     },
     {
       "id": "cap057",
-      "start": 97.779,
-      "end": 100.447,
+      "start": 96.93,
+      "end": 98.23,
       "words": [
         {
           "text": "Nibbles'",
-          "start": 97.779,
-          "end": 98.607
+          "start": 96.93,
+          "end": 97.27
         },
         {
           "text": "head",
-          "start": 98.607,
-          "end": 99.067
+          "start": 97.27,
+          "end": 97.55
         },
         {
           "text": "like",
-          "start": 99.067,
-          "end": 99.527
+          "start": 97.55,
+          "end": 97.73
         },
         {
           "text": "a",
-          "start": 99.527,
-          "end": 99.711
+          "start": 97.73,
+          "end": 97.87
         },
         {
           "text": "turban.",
-          "start": 99.711,
-          "end": 100.447
+          "start": 97.87,
+          "end": 98.23
         }
       ]
     },
     {
       "id": "cap058",
-      "start": 100.447,
-      "end": 102.104,
+      "start": 99.35,
+      "end": 100.55,
       "words": [
         {
           "text": "Sorry,",
-          "start": 100.447,
-          "end": 101.183
+          "start": 99.35,
+          "end": 100.03
         },
         {
           "text": "Nibbles!",
-          "start": 101.183,
-          "end": 102.104
+          "start": 100.19,
+          "end": 100.55
         }
       ]
     },
     {
       "id": "cap059",
-      "start": 102.104,
-      "end": 103.3,
+      "start": 101.87,
+      "end": 102.73,
       "words": [
         {
           "text": "she",
-          "start": 102.104,
-          "end": 102.472
+          "start": 101.87,
+          "end": 102.39
         },
         {
           "text": "laughed.",
-          "start": 102.472,
-          "end": 103.3
+          "start": 102.39,
+          "end": 102.73
         }
       ]
     },
     {
       "id": "cap060",
       "start": 103.3,
-      "end": 105.732,
+      "end": 105.24,
       "words": [
         {
           "text": "One",
           "start": 103.3,
-          "end": 103.614
+          "end": 103.6
         },
         {
           "text": "stubborn",
-          "start": 103.614,
-          "end": 104.32
+          "start": 103.6,
+          "end": 104.08
         },
         {
           "text": "glittery",
-          "start": 104.32,
-          "end": 105.026
+          "start": 104.08,
+          "end": 104.62
         },
         {
           "text": "shoe",
-          "start": 105.026,
-          "end": 105.418
+          "start": 104.62,
+          "end": 104.88
         },
         {
           "text": "had",
-          "start": 105.418,
-          "end": 105.732
+          "start": 104.88,
+          "end": 105.24
         }
       ]
     },
     {
       "id": "cap061",
-      "start": 105.732,
-      "end": 108.243,
+      "start": 105.24,
+      "end": 106.96,
       "words": [
         {
           "text": "wedged",
-          "start": 105.732,
-          "end": 106.282
+          "start": 105.24,
+          "end": 105.66
         },
         {
           "text": "itself",
-          "start": 106.282,
-          "end": 106.831
+          "start": 105.66,
+          "end": 106.08
         },
         {
           "text": "behind",
-          "start": 106.831,
-          "end": 107.38
+          "start": 106.08,
+          "end": 106.44
         },
         {
           "text": "a",
-          "start": 107.38,
-          "end": 107.537
+          "start": 106.44,
+          "end": 106.64
         },
         {
           "text": "curtain.",
-          "start": 107.537,
-          "end": 108.243
+          "start": 106.64,
+          "end": 106.96
         }
       ]
     },
     {
       "id": "cap062",
-      "start": 108.243,
-      "end": 110.44,
+      "start": 106.96,
+      "end": 111.47,
       "words": [
         {
           "text": "Lyra",
-          "start": 108.243,
-          "end": 108.635
+          "start": 106.96,
+          "end": 108.439
         },
         {
           "text": "tugged",
-          "start": 108.635,
-          "end": 109.185
+          "start": 108.439,
+          "end": 110.51
         },
         {
           "text": "with",
-          "start": 109.185,
-          "end": 109.577
+          "start": 110.51,
+          "end": 110.63
         },
         {
           "text": "both",
-          "start": 109.577,
-          "end": 109.969
+          "start": 110.63,
+          "end": 110.95
         },
         {
           "text": "hands",
-          "start": 109.969,
-          "end": 110.44
+          "start": 110.95,
+          "end": 111.47
         }
       ]
     },
     {
       "id": "cap063",
-      "start": 110.44,
-      "end": 112.794,
+      "start": 111.47,
+      "end": 113.63,
       "words": [
         {
           "text": "until",
-          "start": 110.44,
-          "end": 110.911
+          "start": 111.47,
+          "end": 111.89
         },
         {
           "text": "it",
-          "start": 110.911,
-          "end": 111.146
+          "start": 111.89,
+          "end": 112.05
         },
         {
           "text": "popped",
-          "start": 111.146,
-          "end": 111.695
+          "start": 112.05,
+          "end": 112.31
         },
         {
           "text": "free,",
-          "start": 111.695,
-          "end": 112.166
+          "start": 112.31,
+          "end": 112.89
         },
         {
           "text": "sending",
-          "start": 112.166,
-          "end": 112.794
+          "start": 113.35,
+          "end": 113.63
         }
       ]
     },
     {
       "id": "cap064",
-      "start": 112.794,
-      "end": 115.069,
+      "start": 113.63,
+      "end": 115.43,
       "words": [
         {
           "text": "her",
-          "start": 112.794,
-          "end": 113.108
+          "start": 113.63,
+          "end": 113.87
         },
         {
           "text": "tumbling",
-          "start": 113.108,
-          "end": 113.814
+          "start": 113.87,
+          "end": 114.31
         },
         {
           "text": "backward",
-          "start": 113.814,
-          "end": 114.52
+          "start": 114.31,
+          "end": 114.85
         },
         {
           "text": "onto",
-          "start": 114.52,
-          "end": 114.912
+          "start": 114.85,
+          "end": 115.29
         },
         {
           "text": "a",
-          "start": 114.912,
-          "end": 115.069
+          "start": 115.29,
+          "end": 115.43
         }
       ]
     },
     {
       "id": "cap065",
-      "start": 115.069,
+      "start": 115.43,
       "end": 117.58,
       "words": [
         {
           "text": "cushion",
-          "start": 115.069,
-          "end": 115.697
+          "start": 115.43,
+          "end": 115.77
         },
         {
           "text": "with",
-          "start": 115.697,
-          "end": 116.089
+          "start": 115.77,
+          "end": 116.07
         },
         {
           "text": "a",
-          "start": 116.089,
-          "end": 116.246
+          "start": 116.07,
+          "end": 116.21
         },
         {
           "text": "surprised",
-          "start": 116.246,
-          "end": 117.031
+          "start": 116.21,
+          "end": 117.016
         },
         {
           "text": "oof!",
-          "start": 117.031,
+          "start": 117.016,
           "end": 117.58
         }
       ]
@@ -2019,188 +2019,188 @@
     {
       "id": "cap066",
       "start": 117.58,
-      "end": 120.276,
+      "end": 119.8,
       "words": [
         {
           "text": "Ribbon",
           "start": 117.58,
-          "end": 118.17
+          "end": 117.92
         },
         {
           "text": "by",
-          "start": 118.17,
-          "end": 118.423
+          "start": 117.92,
+          "end": 118.12
         },
         {
           "text": "ribbon,",
-          "start": 118.423,
-          "end": 119.097
+          "start": 118.12,
+          "end": 118.6
         },
         {
           "text": "she",
-          "start": 119.097,
-          "end": 119.434
+          "start": 119.0,
+          "end": 119.14
         },
         {
           "text": "untangled",
-          "start": 119.434,
-          "end": 120.276
+          "start": 119.14,
+          "end": 119.8
         }
       ]
     },
     {
       "id": "cap067",
-      "start": 120.276,
-      "end": 122.551,
+      "start": 119.8,
+      "end": 121.8,
       "words": [
         {
           "text": "the",
-          "start": 120.276,
-          "end": 120.613
+          "start": 119.8,
+          "end": 120.04
         },
         {
           "text": "chandelier",
-          "start": 120.613,
-          "end": 121.54
+          "start": 120.04,
+          "end": 120.72
         },
         {
           "text": "\u2014",
-          "start": 121.54,
-          "end": 121.708
+          "start": 120.72,
+          "end": 121.46
         },
         {
           "text": "and",
-          "start": 121.708,
-          "end": 122.045
+          "start": 121.46,
+          "end": 121.62
         },
         {
           "text": "there",
-          "start": 122.045,
-          "end": 122.551
+          "start": 121.62,
+          "end": 121.8
         }
       ]
     },
     {
       "id": "cap068",
-      "start": 122.551,
-      "end": 124.741,
+      "start": 121.8,
+      "end": 123.64,
       "words": [
         {
           "text": "it",
-          "start": 122.551,
-          "end": 122.804
+          "start": 121.8,
+          "end": 121.94
         },
         {
           "text": "was,",
-          "start": 122.804,
-          "end": 123.225
+          "start": 121.94,
+          "end": 122.18
         },
         {
           "text": "hanging",
-          "start": 123.225,
-          "end": 123.899
+          "start": 122.76,
+          "end": 123.02
         },
         {
           "text": "neatly",
-          "start": 123.899,
-          "end": 124.489
+          "start": 123.02,
+          "end": 123.36
         },
         {
           "text": "at",
-          "start": 124.489,
-          "end": 124.741
+          "start": 123.36,
+          "end": 123.64
         }
       ]
     },
     {
       "id": "cap069",
-      "start": 124.741,
-      "end": 127.437,
+      "start": 123.64,
+      "end": 125.58,
       "words": [
         {
           "text": "last:",
-          "start": 124.741,
-          "end": 125.247
+          "start": 123.64,
+          "end": 123.96
         },
         {
           "text": "her",
-          "start": 125.247,
-          "end": 125.584
+          "start": 124.42,
+          "end": 124.5
         },
         {
           "text": "sunshine",
-          "start": 125.584,
-          "end": 126.342
+          "start": 124.5,
+          "end": 124.78
         },
         {
           "text": "yellow",
-          "start": 126.342,
-          "end": 126.932
+          "start": 124.78,
+          "end": 125.3
         },
         {
           "text": "dress",
-          "start": 126.932,
-          "end": 127.437
+          "start": 125.3,
+          "end": 125.58
         }
       ]
     },
     {
       "id": "cap070",
-      "start": 127.437,
-      "end": 129.375,
+      "start": 125.58,
+      "end": 126.66,
       "words": [
         {
           "text": "with",
-          "start": 127.437,
-          "end": 127.859
+          "start": 125.58,
+          "end": 125.88
         },
         {
           "text": "the",
-          "start": 127.859,
-          "end": 128.196
+          "start": 125.88,
+          "end": 126.06
         },
         {
           "text": "twirly",
-          "start": 128.196,
-          "end": 128.785
+          "start": 126.06,
+          "end": 126.4
         },
         {
           "text": "skirt.",
-          "start": 128.785,
-          "end": 129.375
+          "start": 126.4,
+          "end": 126.66
         }
       ]
     },
     {
       "id": "cap071",
-      "start": 129.375,
-      "end": 130.47,
+      "start": 128.33,
+      "end": 129.0,
       "words": [
         {
           "text": "Found",
-          "start": 129.375,
-          "end": 129.965
+          "start": 128.33,
+          "end": 128.64
         },
         {
           "text": "you!",
-          "start": 129.965,
-          "end": 130.47
+          "start": 128.64,
+          "end": 129.0
         }
       ]
     },
     {
       "id": "cap072",
-      "start": 130.47,
+      "start": 129.0,
       "end": 131.65,
       "words": [
         {
           "text": "Lyra",
-          "start": 130.47,
-          "end": 130.892
+          "start": 129.0,
+          "end": 129.946
         },
         {
           "text": "cheered.",
-          "start": 130.892,
+          "start": 129.946,
           "end": 131.65
         }
       ]
@@ -2208,693 +2208,693 @@
     {
       "id": "cap073",
       "start": 131.65,
-      "end": 132.848,
+      "end": 132.79,
       "words": [
         {
           "text": "She",
           "start": 131.65,
-          "end": 131.868
+          "end": 131.83
         },
         {
           "text": "slipped",
-          "start": 131.868,
-          "end": 132.304
+          "start": 131.83,
+          "end": 132.23
         },
         {
           "text": "it",
-          "start": 132.304,
-          "end": 132.467
+          "start": 132.23,
+          "end": 132.39
         },
         {
           "text": "on",
-          "start": 132.467,
-          "end": 132.63
+          "start": 132.39,
+          "end": 132.57
         },
         {
           "text": "and",
-          "start": 132.63,
-          "end": 132.848
+          "start": 132.57,
+          "end": 132.79
         }
       ]
     },
     {
       "id": "cap074",
-      "start": 132.848,
-      "end": 134.155,
+      "start": 132.79,
+      "end": 133.81,
       "words": [
         {
           "text": "twirled",
-          "start": 132.848,
-          "end": 133.284
+          "start": 132.79,
+          "end": 133.19
         },
         {
           "text": "in",
-          "start": 133.284,
-          "end": 133.447
+          "start": 133.19,
+          "end": 133.29
         },
         {
           "text": "front",
-          "start": 133.447,
-          "end": 133.774
+          "start": 133.29,
+          "end": 133.53
         },
         {
           "text": "of",
-          "start": 133.774,
-          "end": 133.938
+          "start": 133.53,
+          "end": 133.73
         },
         {
           "text": "the",
-          "start": 133.938,
-          "end": 134.155
+          "start": 133.73,
+          "end": 133.81
         }
       ]
     },
     {
       "id": "cap075",
-      "start": 134.155,
-      "end": 135.844,
+      "start": 133.81,
+      "end": 135.61,
       "words": [
         {
           "text": "mirror,",
-          "start": 134.155,
-          "end": 134.591
+          "start": 133.81,
+          "end": 134.13
         },
         {
           "text": "the",
-          "start": 134.591,
-          "end": 134.809
+          "start": 134.13,
+          "end": 134.79
         },
         {
           "text": "skirt",
-          "start": 134.809,
-          "end": 135.136
+          "start": 134.79,
+          "end": 135.07
         },
         {
           "text": "spinning",
-          "start": 135.136,
-          "end": 135.626
+          "start": 135.07,
+          "end": 135.35
         },
         {
           "text": "out",
-          "start": 135.626,
-          "end": 135.844
+          "start": 135.35,
+          "end": 135.61
         }
       ]
     },
     {
       "id": "cap076",
-      "start": 135.844,
-      "end": 137.26,
+      "start": 135.61,
+      "end": 136.79,
       "words": [
         {
           "text": "just",
-          "start": 135.844,
-          "end": 136.116
+          "start": 135.61,
+          "end": 135.87
         },
         {
           "text": "like",
-          "start": 136.116,
-          "end": 136.389
+          "start": 135.87,
+          "end": 136.11
         },
         {
           "text": "she",
-          "start": 136.389,
-          "end": 136.606
+          "start": 136.11,
+          "end": 136.37
         },
         {
           "text": "remembered.",
-          "start": 136.606,
-          "end": 137.26
+          "start": 136.37,
+          "end": 136.79
         }
       ]
     },
     {
       "id": "cap077",
       "start": 137.26,
-      "end": 139.277,
+      "end": 139.16,
       "words": [
         {
           "text": "Her",
           "start": 137.26,
-          "end": 137.548
+          "end": 137.42
         },
         {
           "text": "room",
-          "start": 137.548,
-          "end": 137.908
+          "start": 137.42,
+          "end": 137.7
         },
         {
           "text": "sparkled",
-          "start": 137.908,
-          "end": 138.556
+          "start": 137.7,
+          "end": 138.32
         },
         {
           "text": "\u2014",
-          "start": 138.556,
-          "end": 138.7
+          "start": 138.32,
+          "end": 138.86
         },
         {
           "text": "dresses",
-          "start": 138.7,
-          "end": 139.277
+          "start": 138.86,
+          "end": 139.16
         }
       ]
     },
     {
       "id": "cap078",
-      "start": 139.277,
-      "end": 141.149,
+      "start": 139.16,
+      "end": 141.22,
       "words": [
         {
           "text": "sorted",
-          "start": 139.277,
-          "end": 139.781
+          "start": 139.16,
+          "end": 139.66
         },
         {
           "text": "by",
-          "start": 139.781,
-          "end": 139.997
+          "start": 139.66,
+          "end": 139.88
         },
         {
           "text": "color,",
-          "start": 139.997,
-          "end": 140.501
+          "start": 139.88,
+          "end": 140.28
         },
         {
           "text": "shoes",
-          "start": 140.501,
-          "end": 140.933
+          "start": 140.8,
+          "end": 140.96
         },
         {
           "text": "in",
-          "start": 140.933,
-          "end": 141.149
+          "start": 140.96,
+          "end": 141.22
         }
       ]
     },
     {
       "id": "cap079",
-      "start": 141.149,
-      "end": 143.166,
+      "start": 141.22,
+      "end": 143.18,
       "words": [
         {
           "text": "tidy",
-          "start": 141.149,
-          "end": 141.509
+          "start": 141.22,
+          "end": 141.44
         },
         {
           "text": "pairs,",
-          "start": 141.509,
-          "end": 142.014
+          "start": 141.44,
+          "end": 141.88
         },
         {
           "text": "ribbons",
-          "start": 142.014,
-          "end": 142.59
+          "start": 142.38,
+          "end": 142.72
         },
         {
           "text": "tied",
-          "start": 142.59,
-          "end": 142.95
+          "start": 142.72,
+          "end": 142.96
         },
         {
           "text": "in",
-          "start": 142.95,
-          "end": 143.166
+          "start": 142.96,
+          "end": 143.18
         }
       ]
     },
     {
       "id": "cap080",
-      "start": 143.166,
-      "end": 144.03,
+      "start": 143.18,
+      "end": 143.92,
       "words": [
         {
           "text": "soft",
-          "start": 143.166,
-          "end": 143.526
+          "start": 143.18,
+          "end": 143.46
         },
         {
           "text": "loops.",
-          "start": 143.526,
-          "end": 144.03
+          "start": 143.46,
+          "end": 143.92
         }
       ]
     },
     {
       "id": "cap081",
-      "start": 144.03,
-      "end": 145.975,
+      "start": 144.44,
+      "end": 146.26,
       "words": [
         {
           "text": "Nibbles",
-          "start": 144.03,
-          "end": 144.607
+          "start": 144.44,
+          "end": 144.76
         },
         {
           "text": "sat",
-          "start": 144.607,
-          "end": 144.895
+          "start": 144.76,
+          "end": 145.02
         },
         {
           "text": "proudly",
-          "start": 144.895,
-          "end": 145.471
+          "start": 145.02,
+          "end": 145.56
         },
         {
           "text": "atop",
-          "start": 145.471,
-          "end": 145.831
+          "start": 145.56,
+          "end": 146.06
         },
         {
           "text": "a",
-          "start": 145.831,
-          "end": 145.975
+          "start": 146.06,
+          "end": 146.26
         }
       ]
     },
     {
       "id": "cap082",
-      "start": 145.975,
-      "end": 148.28,
+      "start": 146.26,
+      "end": 148.22,
       "words": [
         {
           "text": "stack",
-          "start": 145.975,
-          "end": 146.407
+          "start": 146.26,
+          "end": 146.54
         },
         {
           "text": "of",
-          "start": 146.407,
-          "end": 146.623
+          "start": 146.54,
+          "end": 146.74
         },
         {
           "text": "scarves,",
-          "start": 146.623,
-          "end": 147.271
+          "start": 146.74,
+          "end": 147.4
         },
         {
           "text": "still",
-          "start": 147.271,
-          "end": 147.704
+          "start": 147.6,
+          "end": 147.88
         },
         {
           "text": "wearing",
-          "start": 147.704,
-          "end": 148.28
+          "start": 147.88,
+          "end": 148.22
         }
       ]
     },
     {
       "id": "cap083",
-      "start": 148.28,
-      "end": 149.0,
+      "start": 148.22,
+      "end": 148.74,
       "words": [
         {
           "text": "his",
-          "start": 148.28,
-          "end": 148.568
+          "start": 148.22,
+          "end": 148.46
         },
         {
           "text": "cape.",
-          "start": 148.568,
-          "end": 149.0
+          "start": 148.46,
+          "end": 148.74
         }
       ]
     },
     {
       "id": "cap084",
       "start": 149.0,
-      "end": 150.733,
+      "end": 150.56,
       "words": [
         {
           "text": "Thanks",
           "start": 149.0,
-          "end": 149.495
+          "end": 149.32
         },
         {
           "text": "for",
-          "start": 149.495,
-          "end": 149.743
+          "start": 149.32,
+          "end": 149.5
         },
         {
           "text": "the",
-          "start": 149.743,
-          "end": 149.99
+          "start": 149.5,
+          "end": 149.62
         },
         {
           "text": "help,",
-          "start": 149.99,
-          "end": 150.362
+          "start": 149.62,
+          "end": 149.98
         },
         {
           "text": "Super",
-          "start": 150.362,
-          "end": 150.733
+          "start": 150.3,
+          "end": 150.56
         }
       ]
     },
     {
       "id": "cap085",
-      "start": 150.733,
-      "end": 152.405,
+      "start": 150.56,
+      "end": 152.38,
       "words": [
         {
           "text": "Nibbles,",
-          "start": 150.733,
-          "end": 151.352
+          "start": 150.56,
+          "end": 151.14
         },
         {
           "text": "Lyra",
-          "start": 151.352,
-          "end": 151.662
+          "start": 151.44,
+          "end": 151.74
         },
         {
           "text": "said",
-          "start": 151.662,
-          "end": 151.971
+          "start": 151.74,
+          "end": 152.02
         },
         {
           "text": "with",
-          "start": 151.971,
-          "end": 152.281
+          "start": 152.02,
+          "end": 152.26
         },
         {
           "text": "a",
-          "start": 152.281,
-          "end": 152.405
+          "start": 152.26,
+          "end": 152.38
         }
       ]
     },
     {
       "id": "cap086",
-      "start": 152.405,
-      "end": 153.952,
+      "start": 152.38,
+      "end": 153.84,
       "words": [
         {
           "text": "wink,",
-          "start": 152.405,
-          "end": 152.776
+          "start": 152.38,
+          "end": 152.76
         },
         {
           "text": "heading",
-          "start": 152.776,
-          "end": 153.271
+          "start": 153.18,
+          "end": 153.34
         },
         {
           "text": "off",
-          "start": 153.271,
-          "end": 153.519
+          "start": 153.34,
+          "end": 153.6
         },
         {
           "text": "to",
-          "start": 153.519,
-          "end": 153.705
+          "start": 153.6,
+          "end": 153.74
         },
         {
           "text": "the",
-          "start": 153.705,
-          "end": 153.952
+          "start": 153.74,
+          "end": 153.84
         }
       ]
     },
     {
       "id": "cap087",
-      "start": 153.952,
-      "end": 155.5,
+      "start": 153.84,
+      "end": 155.08,
       "words": [
         {
           "text": "tea",
-          "start": 153.952,
-          "end": 154.2
+          "start": 153.84,
+          "end": 154.06
         },
         {
           "text": "party",
-          "start": 154.2,
-          "end": 154.571
+          "start": 154.06,
+          "end": 154.38
         },
         {
           "text": "right",
-          "start": 154.571,
-          "end": 154.943
+          "start": 154.38,
+          "end": 154.6
         },
         {
           "text": "on",
-          "start": 154.943,
-          "end": 155.129
+          "start": 154.6,
+          "end": 154.76
         },
         {
           "text": "time.",
-          "start": 155.129,
-          "end": 155.5
+          "start": 154.76,
+          "end": 155.08
         }
       ]
     },
     {
       "id": "cap088",
       "start": 155.5,
-      "end": 157.344,
+      "end": 157.16,
       "words": [
         {
           "text": "Tidying",
           "start": 155.5,
-          "end": 155.992
+          "end": 155.98
         },
         {
           "text": "up",
-          "start": 155.992,
-          "end": 156.176
+          "start": 155.98,
+          "end": 156.094
         },
         {
           "text": "hadn't",
-          "start": 156.176,
-          "end": 156.607
+          "start": 156.094,
+          "end": 156.36
         },
         {
           "text": "just",
-          "start": 156.607,
-          "end": 156.914
+          "start": 156.36,
+          "end": 156.7
         },
         {
           "text": "helped",
-          "start": 156.914,
-          "end": 157.344
+          "start": 156.7,
+          "end": 157.16
         }
       ]
     },
     {
       "id": "cap089",
-      "start": 157.344,
-      "end": 158.943,
+      "start": 157.16,
+      "end": 158.68,
       "words": [
         {
           "text": "her",
-          "start": 157.344,
-          "end": 157.59
+          "start": 157.16,
+          "end": 157.34
         },
         {
           "text": "find",
-          "start": 157.59,
-          "end": 157.898
+          "start": 157.34,
+          "end": 157.62
         },
         {
           "text": "her",
-          "start": 157.898,
-          "end": 158.144
+          "start": 157.62,
+          "end": 157.84
         },
         {
           "text": "dress",
-          "start": 158.144,
-          "end": 158.513
+          "start": 157.84,
+          "end": 158.08
         },
         {
           "text": "faster",
-          "start": 158.513,
-          "end": 158.943
+          "start": 158.08,
+          "end": 158.68
         }
       ]
     },
     {
       "id": "cap090",
-      "start": 158.943,
-      "end": 160.05,
+      "start": 158.68,
+      "end": 160.08,
       "words": [
         {
           "text": "\u2014",
-          "start": 158.943,
-          "end": 159.066
+          "start": 158.68,
+          "end": 159.22
         },
         {
           "text": "it",
-          "start": 159.066,
-          "end": 159.25
+          "start": 159.22,
+          "end": 159.5
         },
         {
           "text": "had",
-          "start": 159.25,
-          "end": 159.496
+          "start": 159.5,
+          "end": 159.64
         },
         {
           "text": "turned",
-          "start": 159.496,
-          "end": 159.927
+          "start": 159.64,
+          "end": 159.92
         },
         {
           "text": "a",
-          "start": 159.927,
-          "end": 160.05
+          "start": 159.92,
+          "end": 160.08
         }
       ]
     },
     {
       "id": "cap091",
-      "start": 160.05,
-      "end": 161.833,
+      "start": 160.08,
+      "end": 161.6,
       "words": [
         {
           "text": "stressful",
-          "start": 160.05,
-          "end": 160.664
+          "start": 160.08,
+          "end": 160.5
         },
         {
           "text": "morning",
-          "start": 160.664,
-          "end": 161.156
+          "start": 160.5,
+          "end": 160.94
         },
         {
           "text": "into",
-          "start": 161.156,
-          "end": 161.464
+          "start": 160.94,
+          "end": 161.24
         },
         {
           "text": "a",
-          "start": 161.464,
-          "end": 161.587
+          "start": 161.24,
+          "end": 161.4
         },
         {
           "text": "fun",
-          "start": 161.587,
-          "end": 161.833
+          "start": 161.4,
+          "end": 161.6
         }
       ]
     },
     {
       "id": "cap092",
-      "start": 161.833,
-      "end": 162.14,
+      "start": 161.6,
+      "end": 161.82,
       "words": [
         {
           "text": "one.",
-          "start": 161.833,
-          "end": 162.14
+          "start": 161.6,
+          "end": 161.82
         }
       ]
     },
     {
       "id": "cap093",
       "start": 162.14,
-      "end": 163.764,
+      "end": 163.38,
       "words": [
         {
           "text": "Because",
           "start": 162.14,
-          "end": 162.621
+          "end": 162.46
         },
         {
           "text": "when",
-          "start": 162.621,
-          "end": 162.922
+          "start": 162.46,
+          "end": 162.7
         },
         {
           "text": "you",
-          "start": 162.922,
-          "end": 163.162
+          "start": 162.7,
+          "end": 162.86
         },
         {
           "text": "take",
-          "start": 163.162,
-          "end": 163.463
+          "start": 162.86,
+          "end": 163.1
         },
         {
           "text": "care",
-          "start": 163.463,
-          "end": 163.764
+          "start": 163.1,
+          "end": 163.38
         }
       ]
     },
     {
       "id": "cap094",
-      "start": 163.764,
-      "end": 165.327,
+      "start": 163.38,
+      "end": 165.04,
       "words": [
         {
           "text": "of",
-          "start": 163.764,
-          "end": 163.944
+          "start": 163.38,
+          "end": 163.56
         },
         {
           "text": "your",
-          "start": 163.944,
-          "end": 164.245
+          "start": 163.56,
+          "end": 163.66
         },
         {
           "text": "space,",
-          "start": 164.245,
-          "end": 164.666
+          "start": 163.66,
+          "end": 164.0
         },
         {
           "text": "your",
-          "start": 164.666,
-          "end": 164.967
+          "start": 164.52,
+          "end": 164.72
         },
         {
           "text": "space",
-          "start": 164.967,
-          "end": 165.327
+          "start": 164.72,
+          "end": 165.04
         }
       ]
     },
     {
       "id": "cap095",
-      "start": 165.327,
-      "end": 166.47,
+      "start": 165.04,
+      "end": 166.04,
       "words": [
         {
           "text": "takes",
-          "start": 165.327,
-          "end": 165.688
+          "start": 165.04,
+          "end": 165.32
         },
         {
           "text": "care",
-          "start": 165.688,
-          "end": 165.989
+          "start": 165.32,
+          "end": 165.62
         },
         {
           "text": "of",
-          "start": 165.989,
-          "end": 166.169
+          "start": 165.62,
+          "end": 165.86
         },
         {
           "text": "you.",
-          "start": 166.169,
-          "end": 166.47
+          "start": 165.86,
+          "end": 166.04
         }
       ]
     },
     {
       "id": "cap096",
       "start": 166.47,
-      "end": 167.42,
+      "end": 167.21,
       "words": [
         {
           "text": "The",
           "start": 166.47,
-          "end": 166.892
+          "end": 166.73
         },
         {
           "text": "End.",
-          "start": 166.892,
-          "end": 167.42
+          "start": 166.73,
+          "end": 167.21
         }
       ]
     }
