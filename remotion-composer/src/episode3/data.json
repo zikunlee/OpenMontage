@@ -208,6 +208,56 @@
       "fadeOutAt": 136.56
     }
   ],
+  "endStills": [
+    {
+      "id": "sc02_endstill",
+      "src": "scene_sc02_lastframe.png",
+      "start": 41.932,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 49.46
+    },
+    {
+      "id": "sc03_endstill",
+      "src": "scene_sc03_lastframe.png",
+      "start": 60.402,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 69.19
+    },
+    {
+      "id": "sc05_endstill",
+      "src": "scene_sc05_lastframe.png",
+      "start": 94.87,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 95.07
+    },
+    {
+      "id": "sc06_endstill",
+      "src": "scene_sc06_lastframe.png",
+      "start": 102.6,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 102.8
+    },
+    {
+      "id": "sc07_endstill",
+      "src": "scene_sc07_lastframe.png",
+      "start": 113.742,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 117.08
+    },
+    {
+      "id": "sc09_endstill",
+      "src": "scene_sc09_lastframe.png",
+      "start": 136.56,
+      "fadeInDuration": 0.4,
+      "fadeOutDuration": 0.5,
+      "fadeOutAt": 136.76
+    }
+  ],
   "captions": [
     {
       "id": "cap000",

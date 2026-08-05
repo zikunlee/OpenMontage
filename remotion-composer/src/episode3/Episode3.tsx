@@ -14,6 +14,7 @@ import {
   volumeAtTime,
   type Scene,
   type VideoInsert,
+  type EndStill,
   type Caption,
 } from "./data";
 
@@ -122,6 +123,32 @@ const VideoLayer: React.FC<{ video: VideoInsert }> = ({ video }) => {
   );
 };
 
+// Holds on the Kling clip's own final (trimmed) frame once the clip fades
+// out, crossfading in as the video fades out and remaining through the rest
+// of the scene — replacing the jump back to the FLUX still's starting pose.
+const EndStillLayer: React.FC<{ endStill: EndStill }> = ({ endStill }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const tSec = frame / fps;
+  const opacity = fadeOpacity(
+    tSec,
+    endStill.start,
+    endStill.fadeInDuration,
+    endStill.fadeOutAt,
+    endStill.fadeOutDuration
+  );
+  if (opacity <= 0) return null;
+
+  return (
+    <AbsoluteFill style={{ opacity }}>
+      <Img
+        src={staticFile(`episode3/images/${endStill.src}`)}
+        style={{ width: "100%", height: "100%", objectFit: "cover" }}
+      />
+    </AbsoluteFill>
+  );
+};
+
 // TikTok-style word-level captions: a short phrase is on screen at a time,
 // with the currently-spoken word popping (scale + accent color) while the
 // rest of the phrase stays a plain white — the classic karaoke-caption look.
@@ -143,7 +170,7 @@ const CaptionLayer: React.FC<{ caption: Caption }> = ({ caption }) => {
       <div
         style={{
           position: "absolute",
-          top: "68%",
+          top: "80%",
           left: "50%",
           transform: "translate(-50%, -50%)",
           opacity,
@@ -222,13 +249,18 @@ const FadeBlackLayer: React.FC = () => {
 };
 
 export const Episode3: React.FC = () => {
-  const { scenes, videos, captions, narrations, sfx } = episode3Data;
+  const { scenes, videos, endStills, captions, narrations, sfx } = episode3Data;
 
   return (
     <AbsoluteFill style={{ background: "#0b0f14" }}>
       {/* Scenes: FLUX stills animated via Remotion Ken Burns (per-shot camera movement) */}
       {scenes.map((scene) => (
         <SceneLayer key={scene.id} scene={scene} />
+      ))}
+
+      {/* Kling clips' own final frame, revealed once the clip below finishes */}
+      {endStills.map((endStill) => (
+        <EndStillLayer key={endStill.id} endStill={endStill} />
       ))}
 
       {/* Kling comedic-beat inserts, mix-match over their fallback still */}

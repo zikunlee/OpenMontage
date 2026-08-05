@@ -28,6 +28,15 @@ export interface VideoInsert {
   fadeOutAt: number;
 }
 
+export interface EndStill {
+  id: string;
+  src: string;
+  start: number;
+  fadeInDuration: number;
+  fadeOutDuration: number | null;
+  fadeOutAt: number | null;
+}
+
 export interface CaptionWord {
   text: string;
   start: number;
@@ -78,6 +87,7 @@ export interface Episode3Data {
   totalDuration: number;
   scenes: Scene[];
   videos: VideoInsert[];
+  endStills: EndStill[];
   captions: Caption[];
   narrations: Narration[];
   music: MusicConfig;
