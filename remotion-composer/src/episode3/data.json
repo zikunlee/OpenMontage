@@ -8,7 +8,7 @@
       "src": "scene_sc01_lyra_surveys_mess.png",
       "anim": {
         "scaleFrom": 1.0,
-        "scaleTo": 1.15,
+        "scaleTo": 1.22,
         "xFrom": 0.0,
         "xTo": 0.0
       },
@@ -23,9 +23,9 @@
       "src": "scene_sc02_pillowcase_reveal.png",
       "anim": {
         "scaleFrom": 1.05,
-        "scaleTo": 1.1,
-        "xFrom": -1.5,
-        "xTo": 1.5
+        "scaleTo": 1.16,
+        "xFrom": -2.5,
+        "xTo": 2.5
       },
       "fadeInDuration": 0.5,
       "fadeOutDuration": 0.5,
@@ -38,7 +38,7 @@
       "src": "scene_sc03_nibbles_slipper.png",
       "anim": {
         "scaleFrom": 1.0,
-        "scaleTo": 1.15,
+        "scaleTo": 1.22,
         "xFrom": 0.0,
         "xTo": 0.0
       },
@@ -52,8 +52,8 @@
       "duration": 15.81,
       "src": "scene_sc04_lyra_laughs_super_nibbles.png",
       "anim": {
-        "scaleFrom": 1.03,
-        "scaleTo": 1.03,
+        "scaleFrom": 1.0,
+        "scaleTo": 1.1,
         "xFrom": 0.0,
         "xTo": 0.0
       },
@@ -67,10 +67,10 @@
       "duration": 10.07,
       "src": "scene_sc05_music_box_wind_up.png",
       "anim": {
-        "scaleFrom": 1.08,
-        "scaleTo": 1.08,
-        "xFrom": -4.0,
-        "xTo": 4.0
+        "scaleFrom": 1.12,
+        "scaleTo": 1.12,
+        "xFrom": -7.0,
+        "xTo": 7.0
       },
       "fadeInDuration": 0.5,
       "fadeOutDuration": 0.5,
@@ -82,10 +82,10 @@
       "duration": 7.73,
       "src": "scene_sc06_twirl_scarf_turban.png",
       "anim": {
-        "scaleFrom": 1.08,
-        "scaleTo": 1.08,
-        "xFrom": 4.0,
-        "xTo": -4.0
+        "scaleFrom": 1.12,
+        "scaleTo": 1.12,
+        "xFrom": 7.0,
+        "xTo": -7.0
       },
       "fadeInDuration": 0.5,
       "fadeOutDuration": 0.5,
@@ -98,9 +98,9 @@
       "src": "scene_sc07_shoe_tug_of_war.png",
       "anim": {
         "scaleFrom": 1.05,
-        "scaleTo": 1.1,
-        "xFrom": -1.5,
-        "xTo": 1.5
+        "scaleTo": 1.16,
+        "xFrom": -2.5,
+        "xTo": 2.5
       },
       "fadeInDuration": 0.5,
       "fadeOutDuration": 0.5,
@@ -113,7 +113,7 @@
       "src": "scene_sc08_yellow_dress_found.png",
       "anim": {
         "scaleFrom": 1.0,
-        "scaleTo": 1.15,
+        "scaleTo": 1.22,
         "xFrom": 0.0,
         "xTo": 0.0
       },
@@ -127,10 +127,10 @@
       "duration": 5.61,
       "src": "scene_sc09_twirl_mirror.png",
       "anim": {
-        "scaleFrom": 1.05,
-        "scaleTo": 1.12,
-        "xFrom": -3.0,
-        "xTo": 3.0
+        "scaleFrom": 1.02,
+        "scaleTo": 1.2,
+        "xFrom": -6.0,
+        "xTo": 6.0
       },
       "fadeInDuration": 0.5,
       "fadeOutDuration": 0.5,
@@ -142,7 +142,7 @@
       "duration": 30.16,
       "src": "scene_sc10_tidy_room_wink_teaparty.png",
       "anim": {
-        "scaleFrom": 1.15,
+        "scaleFrom": 1.22,
         "scaleTo": 1.0,
         "xFrom": 0.0,
         "xTo": 0.0

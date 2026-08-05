@@ -49,11 +49,17 @@ function fadeOpacity(
   return opacity;
 }
 
+// Ken Burns travel completes within this window, then holds — so even a
+// long (20-30s) shot reads as clearly moving instead of crawling too slowly
+// to notice.
+const KEN_BURNS_TRAVEL_SECONDS = 9;
+
 const SceneLayer: React.FC<{ scene: Scene }> = ({ scene }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const tSec = frame / fps;
-  const progress = clamp01((tSec - scene.start) / scene.duration);
+  const travelDuration = Math.min(scene.duration, KEN_BURNS_TRAVEL_SECONDS);
+  const progress = clamp01((tSec - scene.start) / travelDuration);
   const eased = sineInOut(progress);
   const scale = scene.anim.scaleFrom + (scene.anim.scaleTo - scene.anim.scaleFrom) * eased;
   const x = scene.anim.xFrom + (scene.anim.xTo - scene.anim.xFrom) * eased;
