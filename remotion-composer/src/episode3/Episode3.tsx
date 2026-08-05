@@ -102,13 +102,22 @@ const VideoLayer: React.FC<{ video: VideoInsert }> = ({ video }) => {
   );
   if (opacity <= 0) return null;
 
+  // OffthreadVideo seeks using the GLOBAL timeline frame unless it's inside
+  // its own Sequence — without this, a clip starting well into the episode
+  // (e.g. 32s in) would request a frame far past its own ~10s length and
+  // freeze on the last available frame for the whole overlay window.
+  const startFrame = Math.round(video.start * fps);
+  const durationFrames = Math.round(video.duration * fps) + 1;
+
   return (
     <AbsoluteFill style={{ opacity }}>
-      <OffthreadVideo
-        src={staticFile(`episode3/videos/${video.src}`)}
-        muted
-        style={{ width: "100%", height: "100%", objectFit: "cover" }}
-      />
+      <Sequence from={startFrame} durationInFrames={durationFrames}>
+        <OffthreadVideo
+          src={staticFile(`episode3/videos/${video.src}`)}
+          muted
+          style={{ width: "100%", height: "100%", objectFit: "cover" }}
+        />
+      </Sequence>
     </AbsoluteFill>
   );
 };
@@ -120,7 +129,13 @@ const CaptionLayer: React.FC<{ caption: Caption }> = ({ caption }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const tSec = frame / fps;
-  const opacity = fadeOpacity(tSec, caption.start, 0.15, caption.end, 0.2);
+  // Adjacent caption chunks are contiguous (one ends exactly when the next
+  // begins), so the fade-out must finish AT caption.end rather than extend
+  // past it — otherwise this chunk's fade-out overlaps the next chunk's
+  // fade-in and the two garble together on screen.
+  const fadeDur = 0.15;
+  const fadeOutAt = Math.max(caption.start + fadeDur, caption.end - fadeDur);
+  const opacity = fadeOpacity(tSec, caption.start, fadeDur, fadeOutAt, fadeDur);
   if (opacity <= 0) return null;
 
   return (
