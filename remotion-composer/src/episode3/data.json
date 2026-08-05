@@ -3217,7 +3217,29 @@
     "fadeOutAt": 164.92,
     "fadeOutDuration": 2.5
   },
-  "sfx": [],
+  "sfx": [
+    {
+      "id": "sfx_poof",
+      "src": "sfx_poof.wav",
+      "start": 48.8,
+      "duration": 0.55,
+      "volume": 0.9
+    },
+    {
+      "id": "sfx_squeak",
+      "src": "sfx_squeak.wav",
+      "start": 63.0,
+      "duration": 0.9,
+      "volume": 0.9
+    },
+    {
+      "id": "sfx_pop",
+      "src": "sfx_pop.wav",
+      "start": 111.5,
+      "duration": 0.8,
+      "volume": 0.9
+    }
+  ],
   "fadeBlackIn": {
     "start": 0.0,
     "duration": 0.9

@@ -212,7 +212,7 @@ const FadeBlackLayer: React.FC = () => {
 };
 
 export const Episode3: React.FC = () => {
-  const { scenes, videos, captions, narrations } = episode3Data;
+  const { scenes, videos, captions, narrations, sfx } = episode3Data;
 
   return (
     <AbsoluteFill style={{ background: "#0b0f14" }}>
@@ -246,6 +246,13 @@ export const Episode3: React.FC = () => {
 
       {/* Music with ducking under narration, lift during the montage */}
       <MusicLayer />
+
+      {/* Comedic SFX */}
+      {sfx.map((x) => (
+        <Sequence key={x.id} from={Math.round(x.start * 30)}>
+          <Audio src={staticFile(`episode3/sfx/${x.src}`)} volume={x.volume} />
+        </Sequence>
+      ))}
 
       {/* Fade from/to black */}
       <FadeBlackLayer />

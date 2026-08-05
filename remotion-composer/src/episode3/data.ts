@@ -66,6 +66,14 @@ export interface MusicConfig {
   fadeOutDuration: number;
 }
 
+export interface Sfx {
+  id: string;
+  src: string;
+  start: number;
+  duration: number;
+  volume: number;
+}
+
 export interface Episode3Data {
   totalDuration: number;
   scenes: Scene[];
@@ -73,7 +81,7 @@ export interface Episode3Data {
   captions: Caption[];
   narrations: Narration[];
   music: MusicConfig;
-  sfx: unknown[];
+  sfx: Sfx[];
   fadeBlackIn: { start: number; duration: number };
   fadeBlackOut: { start: number; duration: number };
 }
