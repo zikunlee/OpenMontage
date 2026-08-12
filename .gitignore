@@ -41,6 +41,9 @@ music_library/
 # User SFX library (personal royalty-free sound effects — not part of repo)
 sfx_library/
 
+# Cross-episode reusable video clip library (user-supplied/generated, not part of repo)
+assets/reusable-clips/
+
 # Environment & credentials
 .env
 .env.local
