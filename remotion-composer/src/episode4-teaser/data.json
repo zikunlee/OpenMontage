@@ -1,0 +1,311 @@
+{
+  "totalDuration": 45.0,
+  "shots": [
+    {
+      "id": "shot1",
+      "type": "video",
+      "src": "episode4/videos/sc01_animated.mp4",
+      "start": 0.0,
+      "duration": 3.5,
+      "sourceOffset": 3.0
+    },
+    {
+      "id": "shot2",
+      "type": "video",
+      "src": "episode4/videos/sc03_animated.mp4",
+      "start": 3.5,
+      "duration": 3.5,
+      "sourceOffset": 1.5
+    },
+    {
+      "id": "shot3",
+      "type": "video",
+      "src": "episode4/videos/festival-ambiance-gemini.mp4",
+      "start": 7.0,
+      "duration": 2.3,
+      "sourceOffset": 0.0
+    },
+    {
+      "id": "shot4",
+      "type": "video",
+      "src": "episode4/videos/sc07_animated.mp4",
+      "start": 9.3,
+      "duration": 4.2,
+      "sourceOffset": 2.0
+    },
+    {
+      "id": "shot5",
+      "type": "video",
+      "src": "episode4/videos/sc08_animated.mp4",
+      "start": 13.5,
+      "duration": 3.5,
+      "sourceOffset": 1.0
+    },
+    {
+      "id": "shot6",
+      "type": "video",
+      "src": "episode4/videos/mouse-ribbon-tangle-gemini.mp4",
+      "start": 17.0,
+      "duration": 3.5,
+      "sourceOffset": 1.5
+    },
+    {
+      "id": "shot7",
+      "type": "video",
+      "src": "episode4/videos/sc09_animated.mp4",
+      "start": 20.5,
+      "duration": 4.0,
+      "sourceOffset": 2.5
+    },
+    {
+      "id": "shot8",
+      "type": "video",
+      "src": "episode4/videos/fairy-flying-gemini.mp4",
+      "start": 24.5,
+      "duration": 4.0,
+      "sourceOffset": 3.0
+    }
+  ],
+  "endCard": {
+    "bgSrc": "episode4/images/scene_sc11_closing_together.png",
+    "start": 28.5,
+    "duration": 16.5,
+    "ctaText": "Watch Episode 4 now!"
+  },
+  "textOverlays": [
+    {
+      "id": "ov1",
+      "text": "Meet Pip, the shy little fairy",
+      "start": 0.3,
+      "end": 3.2
+    },
+    {
+      "id": "ov2",
+      "text": "A hand reaches out...",
+      "start": 9.5,
+      "end": 12.5
+    }
+  ],
+  "narrations": [
+    {
+      "id": "line1",
+      "src": "episode4/teaser/audio/teaser_narration_line1.wav",
+      "start": 0.2,
+      "duration": 8.867074829931973
+    },
+    {
+      "id": "line2",
+      "src": "episode4/teaser/audio/teaser_narration_line2.wav",
+      "start": 29.5,
+      "duration": 2.9257142857142857
+    }
+  ],
+  "captions": [
+    {
+      "id": "line1_cap0",
+      "start": 0.2,
+      "end": 1.02,
+      "words": [
+        {
+          "text": "Pip",
+          "start": 0.2,
+          "end": 0.34
+        },
+        {
+          "text": "is",
+          "start": 0.34,
+          "end": 0.54
+        },
+        {
+          "text": "a",
+          "start": 0.54,
+          "end": 0.66
+        },
+        {
+          "text": "tiny",
+          "start": 0.66,
+          "end": 1.02
+        }
+      ]
+    },
+    {
+      "id": "line1_cap1",
+      "start": 1.02,
+      "end": 1.38,
+      "words": [
+        {
+          "text": "fairy...",
+          "start": 1.02,
+          "end": 1.38
+        }
+      ]
+    },
+    {
+      "id": "line1_cap2",
+      "start": 1.38,
+      "end": 2.28,
+      "words": [
+        {
+          "text": "too",
+          "start": 1.38,
+          "end": 1.68
+        },
+        {
+          "text": "shy",
+          "start": 1.68,
+          "end": 1.88
+        },
+        {
+          "text": "to",
+          "start": 1.88,
+          "end": 2.06
+        },
+        {
+          "text": "join",
+          "start": 2.06,
+          "end": 2.28
+        }
+      ]
+    },
+    {
+      "id": "line1_cap3",
+      "start": 2.28,
+      "end": 3.28,
+      "words": [
+        {
+          "text": "the",
+          "start": 2.28,
+          "end": 2.46
+        },
+        {
+          "text": "festival",
+          "start": 2.46,
+          "end": 2.88
+        },
+        {
+          "text": "fun.",
+          "start": 2.88,
+          "end": 3.28
+        }
+      ]
+    },
+    {
+      "id": "line1_cap4",
+      "start": 4.58,
+      "end": 6.26,
+      "words": [
+        {
+          "text": "But",
+          "start": 4.58,
+          "end": 4.94
+        },
+        {
+          "text": "when",
+          "start": 4.94,
+          "end": 5.28
+        },
+        {
+          "text": "Princess",
+          "start": 5.28,
+          "end": 5.82
+        },
+        {
+          "text": "Lyra",
+          "start": 5.82,
+          "end": 6.26
+        }
+      ]
+    },
+    {
+      "id": "line1_cap5",
+      "start": 6.26,
+      "end": 8.4,
+      "words": [
+        {
+          "text": "reaches",
+          "start": 6.26,
+          "end": 6.6
+        },
+        {
+          "text": "out,",
+          "start": 6.6,
+          "end": 7.08
+        },
+        {
+          "text": "everything",
+          "start": 7.4,
+          "end": 7.78
+        },
+        {
+          "text": "changes.",
+          "start": 7.78,
+          "end": 8.4
+        }
+      ]
+    },
+    {
+      "id": "line2_cap6",
+      "start": 29.5,
+      "end": 30.6,
+      "words": [
+        {
+          "text": "Find",
+          "start": 29.5,
+          "end": 29.74
+        },
+        {
+          "text": "out",
+          "start": 29.74,
+          "end": 30.02
+        },
+        {
+          "text": "on",
+          "start": 30.02,
+          "end": 30.2
+        },
+        {
+          "text": "Princess",
+          "start": 30.2,
+          "end": 30.6
+        }
+      ]
+    },
+    {
+      "id": "line2_cap7",
+      "start": 30.6,
+      "end": 32.06,
+      "words": [
+        {
+          "text": "Lyra's",
+          "start": 30.6,
+          "end": 31.3
+        },
+        {
+          "text": "Magic",
+          "start": 31.3,
+          "end": 31.62
+        },
+        {
+          "text": "Kingdom!",
+          "start": 31.62,
+          "end": 32.06
+        }
+      ]
+    }
+  ],
+  "music": {
+    "src": "episode4/teaser/music/teaser_music.mp3",
+    "baseVolume": 0.85,
+    "duckVolume": 0.45,
+    "duckSegments": [
+      {
+        "start": 0.2,
+        "end": 9.067074829931972
+      },
+      {
+        "start": 29.5,
+        "end": 32.425714285714285
+      }
+    ]
+  }
+}
