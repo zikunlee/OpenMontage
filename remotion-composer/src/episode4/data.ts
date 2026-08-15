@@ -86,8 +86,24 @@ export interface MusicConfig {
   fadeOutDuration: number;
 }
 
+export interface Intro {
+  bgSrc: string;
+  seriesTitle: string;
+  episodeTitle: string;
+  storyText: string;
+  narrationSrc: string;
+  narrationStart: number;
+  titleFadeInAt: number;
+  storyFadeInAt: number;
+  duration: number;
+  fadeOutAt: number;
+  fadeOutDuration: number;
+}
+
 export interface Episode4Data {
   totalDuration: number;
+  introDuration: number;
+  intro: Intro;
   scenes: Scene[];
   videos: VideoInsert[];
   endStills: EndStill[];

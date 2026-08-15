@@ -1,5 +1,19 @@
 {
   "totalDuration": 155.25,
+  "introDuration": 14.983,
+  "intro": {
+    "bgSrc": "scene_sc11_closing_together.png",
+    "seriesTitle": "Princess Lyra's Magic Kingdom",
+    "episodeTitle": "The Shy Little Fairy",
+    "storyText": "Have you ever felt too shy to say hello to someone new?",
+    "narrationSrc": "narration_intro.wav",
+    "narrationStart": 0.3,
+    "titleFadeInAt": 0.3,
+    "storyFadeInAt": 4.751,
+    "duration": 14.983,
+    "fadeOutAt": 14.583,
+    "fadeOutDuration": 0.4
+  },
   "scenes": [
     {
       "id": "sc01",

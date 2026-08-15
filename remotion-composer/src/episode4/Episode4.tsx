@@ -18,6 +18,7 @@ import {
   type EndStill,
   type GeminiLoop,
   type Caption,
+  type Intro,
 } from "./data";
 
 function sineInOut(t: number): number {
@@ -234,11 +235,87 @@ const FadeBlackLayer: React.FC = () => {
   return <AbsoluteFill style={{ background: "#000", opacity }} />;
 };
 
-export const Episode4: React.FC = () => {
+// Opening title card: series + episode title and a short story premise, read
+// aloud before the story begins, over the closing composite (all 3
+// characters together).
+const IntroLayer: React.FC<{ intro: Intro }> = ({ intro }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const tSec = frame / fps;
+
+  const layerOpacity = fadeOpacity(tSec, 0, 0.3, intro.fadeOutAt, intro.fadeOutDuration);
+  if (layerOpacity <= 0) return null;
+
+  const travelDuration = Math.min(intro.duration, KEN_BURNS_TRAVEL_SECONDS);
+  const progress = clamp01(tSec / travelDuration);
+  const scale = 1.0 + 0.08 * sineInOut(progress);
+
+  const titleOpacity = fadeOpacity(tSec, intro.titleFadeInAt, 0.6, null, null);
+  const storyOpacity = fadeOpacity(tSec, intro.storyFadeInAt, 0.6, null, null);
+
+  return (
+    <AbsoluteFill style={{ opacity: layerOpacity, overflow: "hidden" }}>
+      <Img
+        src={staticFile(`episode4/images/${intro.bgSrc}`)}
+        style={{
+          position: "absolute", top: "50%", left: "50%", width: "100%", height: "100%",
+          objectFit: "cover", transform: `translate(-50%, -50%) scale(${scale})`,
+        }}
+      />
+      <AbsoluteFill style={{ background: "rgba(0,0,0,0.28)" }} />
+
+      <div
+        style={{
+          position: "absolute", top: "12%", left: "50%", transform: "translateX(-50%)",
+          opacity: titleOpacity, textAlign: "center", width: "90%",
+        }}
+      >
+        <div
+          style={{
+            fontFamily: "'Baloo 2', 'Quicksand', 'Comic Sans MS', sans-serif",
+            fontWeight: 800, fontSize: 62, color: "#FFE9A8",
+            WebkitTextStroke: "2px #4A2E22",
+            textShadow: "0 3px 6px #4A2E22, 0 0 30px rgba(74,46,34,0.7)",
+          }}
+        >
+          {intro.seriesTitle}
+        </div>
+        <div
+          style={{
+            marginTop: 14, fontFamily: "'Baloo 2', 'Quicksand', 'Comic Sans MS', sans-serif",
+            fontWeight: 600, fontStyle: "italic", fontSize: 36, color: "#FFFFFF",
+            WebkitTextStroke: "1.5px #4A2E22", textShadow: "0 2px 4px #4A2E22",
+          }}
+        >
+          {intro.episodeTitle}
+        </div>
+      </div>
+
+      <div
+        style={{
+          position: "absolute", top: "78%", left: "50%", transform: "translate(-50%, -50%)",
+          opacity: storyOpacity, maxWidth: 900, textAlign: "center",
+          fontFamily: "'Baloo 2', 'Quicksand', 'Comic Sans MS', sans-serif",
+          fontWeight: 700, fontStyle: "italic", fontSize: 34, lineHeight: 1.3, color: "#FFFFFF",
+          WebkitTextStroke: "1.5px #4A2E22", textShadow: "0 2px 4px #4A2E22",
+          background: "rgba(74,46,34,0.45)", borderRadius: 28, padding: "16px 40px",
+        }}
+      >
+        {intro.storyText}
+      </div>
+
+      <Sequence from={Math.round(intro.narrationStart * fps)}>
+        <Audio src={staticFile(`episode4/audio/${intro.narrationSrc}`)} />
+      </Sequence>
+    </AbsoluteFill>
+  );
+};
+
+const MainStory: React.FC = () => {
   const { scenes, videos, endStills, geminiLoops, captions, narrations } = episode4Data;
 
   return (
-    <AbsoluteFill style={{ background: "#0b0f14" }}>
+    <AbsoluteFill>
       {scenes.map((scene) => (
         <SceneLayer key={scene.id} scene={scene} />
       ))}
@@ -259,11 +336,6 @@ export const Episode4: React.FC = () => {
         <CaptionLayer key={caption.id} caption={caption} />
       ))}
 
-      <Img
-        src={staticFile("episode4/watermark.png")}
-        style={{ position: "absolute", top: 30, right: 30, width: 130, opacity: 0.4 }}
-      />
-
       {narrations.map((n) => (
         <Sequence key={n.id} from={Math.round(n.start * 30)}>
           <Audio src={staticFile(`episode4/audio/${n.src}`)} />
@@ -273,6 +345,28 @@ export const Episode4: React.FC = () => {
       <MusicLayer />
 
       <FadeBlackLayer />
+    </AbsoluteFill>
+  );
+};
+
+export const Episode4: React.FC = () => {
+  const { intro, introDuration, totalDuration } = episode4Data;
+  const fps = 30;
+  const introFrames = Math.round(introDuration * fps);
+  const mainFrames = Math.round(totalDuration * fps) + 1;
+
+  return (
+    <AbsoluteFill style={{ background: "#0b0f14" }}>
+      <IntroLayer intro={intro} />
+
+      <Sequence from={introFrames} durationInFrames={mainFrames}>
+        <MainStory />
+      </Sequence>
+
+      <Img
+        src={staticFile("episode4/watermark.png")}
+        style={{ position: "absolute", top: 30, right: 30, width: 130, opacity: 0.4 }}
+      />
     </AbsoluteFill>
   );
 };
